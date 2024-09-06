@@ -1,7 +1,8 @@
+// src/app/layout.tsx (서버 컴포넌트)
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
-import MswComponent from "@/MswComponent";
+import ClientWrapper from "@/ClientWrapper"; // 클라이언트 로직을 담은 래퍼 컴포넌트
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -18,8 +19,7 @@ export default function RootLayout({
   return (
     <html lang="en" data-theme="emerald">
       <body className={inter.className}>
-        <MswComponent />
-        {children}
+        <ClientWrapper>{children}</ClientWrapper>
       </body>
     </html>
   );

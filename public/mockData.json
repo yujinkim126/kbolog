@@ -4554,5 +4554,27 @@
       "teamEngName": "ktWiz",
       "teamImg": "https://static-cdn.sporki.com/team/179/logo_1679896446003.png"
     }
+  ],
+
+  "getWatchCountInfo": [
+    {
+      "count": {
+        "totalWatchCount": 12,
+        "winGameCount": 7,
+        "loseGameCount": 5
+      }
+    }
+  ],
+
+  "getWatchLogInfo": [
+    {
+      "game": {
+        "gameId": 15131,
+        "gameTitle": "KT VS 롯데",
+        "gameScore": "5:8",
+        "winningPitcher": "반즈",
+        "stadium": "사직 경기장"
+      }
+    }
   ]
 }

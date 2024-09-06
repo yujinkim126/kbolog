@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "mock": "node server/browser.ts"
+    "mock": "npx tsx watch server/http.ts"
   },
   "dependencies": {
     "graphql": "^16.9.0",

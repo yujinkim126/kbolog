@@ -47,5 +47,16 @@ const getGameScheduleHandler = http.get("/api/game/schedule", ({ request }) => {
   });
 });
 
+const getWatchCountInfoHandler = http.get("/api/watch/count", ({ request }) => {
+  return HttpResponse.json({
+    code: "OK",
+    status: 200,
+    headers: {
+      "Content-Type": "application/json",
+    },
+    response: mockData.getWatchCountInfo[0],
+  });
+});
+
 // 핸들러를 배열로 내보냅니다
-export const handlers = [getGameScheduleHandler];
+export const handlers = [getGameScheduleHandler, getWatchCountInfoHandler];
