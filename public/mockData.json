@@ -1,0 +1,4558 @@
+{
+  "getGameSchedule": [
+    {
+      "lotteGiants": {
+        "gameSchedule": [
+          {
+            "date": "2024-09-01",
+            "gameList": [
+              {
+                "gameType": {
+                  "code": 0,
+                  "name": "일반"
+                },
+                "sportsCodeName": "야구",
+                "matchType": {
+                  "code": 1,
+                  "name": "대진"
+                },
+                "homeTeamSeq": 175,
+                "gameTitle": "롯데 VS 두산",
+                "broadcastType": {
+                  "code": 1,
+                  "name": "영상"
+                },
+                "awayTeamStartingPitcher": "박세웅",
+                "awayTeamLogoPath": "/team/173/logo_1679896578985.png",
+                "timeMachineStatus": {
+                  "code": 0,
+                  "name": "미제공"
+                },
+                "stadium": "잠실",
+                "startTime": "14:00:00",
+                "gameLinkTabType": {
+                  "code": 5,
+                  "name": "영상"
+                },
+                "seq": 33164,
+                "homeTeamLogoPath": "/team/175/logo_1679896495060.png",
+                "losingPitcher": {
+                  "homeAwayType": {
+                    "code": 1,
+                    "name": "홈"
+                  },
+                  "pitcherName": "홍건희"
+                },
+                "awayTeamSeq": 173,
+                "liveStartDate": "2024-09-01 13:45:00",
+                "sportsCodeValue": "kbaseball",
+                "leagueCodeName": "KBO",
+                "gameStatus": {
+                  "code": 3,
+                  "name": "경기종료"
+                },
+                "homeTeamStartingPitcher": "발라조빅",
+                "homeTeamScore": 3,
+                "leagueCodeValue": "kbo",
+                "awayTeamName": "롯데",
+                "awayTeamScore": 4,
+                "homeTeamName": "두산",
+                "winningPitcher": {
+                  "homeAwayType": {
+                    "code": 2,
+                    "name": "원정"
+                  },
+                  "pitcherName": "나균안"
+                },
+                "startDate": "2024-09-01"
+              }
+            ]
+          },
+          {
+            "date": "2024-09-03",
+            "gameList": [
+              {
+                "broadcast": [
+                  {
+                    "channelName": "삼성 편파 라이브톡",
+                    "channelType": {
+                      "code": 50
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d1soxe5yzlfx4a.cloudfront.net/h264/kbaseball_samsung/hls/master.m3u8"
+                  },
+                  {
+                    "channelName": "롯데 편파 라이브톡",
+                    "channelType": {
+                      "code": 46
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d11scj4c5nlhpg.cloudfront.net/h264/kbaseball_lotte/hls/master.m3u8"
+                  }
+                ],
+                "gameType": {
+                  "code": 0,
+                  "name": "일반"
+                },
+                "sportsCodeName": "야구",
+                "matchType": {
+                  "code": 1,
+                  "name": "대진"
+                },
+                "homeTeamSeq": 177,
+                "gameTitle": "롯데 VS 삼성",
+                "broadcastType": {
+                  "code": 1,
+                  "name": "영상"
+                },
+                "awayTeamStartingPitcher": "반즈",
+                "awayTeamLogoPath": "/team/173/logo_1679896578985.png",
+                "timeMachineStatus": {
+                  "code": 0,
+                  "name": "미제공"
+                },
+                "stadium": "대구",
+                "startTime": "18:30:00",
+                "gameLinkTabType": {
+                  "code": 5,
+                  "name": "영상"
+                },
+                "seq": 33165,
+                "homeTeamLogoPath": "/team/177/logo_1679896472469.png",
+                "losingPitcher": {
+                  "homeAwayType": {
+                    "code": 2,
+                    "name": "원정"
+                  },
+                  "pitcherName": "반즈"
+                },
+                "awayTeamSeq": 173,
+                "liveStartDate": "2024-09-03 18:15:00",
+                "sportsCodeValue": "kbaseball",
+                "leagueCodeName": "KBO",
+                "gameStatus": {
+                  "code": 3,
+                  "name": "경기종료"
+                },
+                "homeTeamStartingPitcher": "코너",
+                "homeTeamScore": 5,
+                "leagueCodeValue": "kbo",
+                "awayTeamName": "롯데",
+                "awayTeamScore": 1,
+                "homeTeamName": "삼성",
+                "winningPitcher": {
+                  "homeAwayType": {
+                    "code": 1,
+                    "name": "홈"
+                  },
+                  "pitcherName": "코너"
+                },
+                "startDate": "2024-09-03"
+              }
+            ]
+          },
+          {
+            "date": "2024-09-04",
+            "gameList": [
+              {
+                "broadcast": [
+                  {
+                    "channelName": "롯데 편파 라이브톡",
+                    "channelType": {
+                      "code": 46
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d11scj4c5nlhpg.cloudfront.net/h264/kbaseball_lotte/hls/master.m3u8"
+                  },
+                  {
+                    "channelName": "KT 편파 라이브톡",
+                    "channelType": {
+                      "code": 48
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d11scj4c5nlhpg.cloudfront.net/h264/kbaseball_kt/hls/master.m3u8"
+                  }
+                ],
+                "gameType": {
+                  "code": 0,
+                  "name": "일반"
+                },
+                "sportsCodeName": "야구",
+                "matchType": {
+                  "code": 1,
+                  "name": "대진"
+                },
+                "homeTeamSeq": 173,
+                "gameTitle": "KT VS 롯데",
+                "broadcastType": {
+                  "code": 1,
+                  "name": "영상"
+                },
+                "awayTeamStartingPitcher": "벤자민",
+                "awayTeamLogoPath": "/team/179/logo_1679896446003.png",
+                "timeMachineStatus": {
+                  "code": 0,
+                  "name": "미제공"
+                },
+                "stadium": "사직",
+                "startTime": "18:30:00",
+                "gameLinkTabType": {
+                  "code": 5,
+                  "name": "영상"
+                },
+                "seq": 33169,
+                "homeTeamLogoPath": "/team/173/logo_1679896578985.png",
+                "losingPitcher": {
+                  "homeAwayType": {
+                    "code": 2,
+                    "name": "원정"
+                  },
+                  "pitcherName": "김민"
+                },
+                "awayTeamSeq": 179,
+                "liveStartDate": "2024-09-04 18:15:00",
+                "sportsCodeValue": "kbaseball",
+                "leagueCodeName": "KBO",
+                "gameStatus": {
+                  "code": 3,
+                  "name": "경기종료"
+                },
+                "homeTeamStartingPitcher": "윌커슨",
+                "homeTeamScore": 7,
+                "leagueCodeValue": "kbo",
+                "awayTeamName": "KT",
+                "awayTeamScore": 5,
+                "homeTeamName": "롯데",
+                "winningPitcher": {
+                  "homeAwayType": {
+                    "code": 1,
+                    "name": "홈"
+                  },
+                  "pitcherName": "김상수"
+                },
+                "startDate": "2024-09-04"
+              }
+            ]
+          },
+          {
+            "date": "2024-09-05",
+            "gameList": [
+              {
+                "broadcast": [
+                  {
+                    "channelName": "롯데 편파 라이브톡",
+                    "channelType": {
+                      "code": 46
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d11scj4c5nlhpg.cloudfront.net/h264/kbaseball_lotte/hls/master.m3u8"
+                  },
+                  {
+                    "channelName": "KT 편파 라이브톡",
+                    "channelType": {
+                      "code": 48
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d11scj4c5nlhpg.cloudfront.net/h264/kbaseball_kt/hls/master.m3u8"
+                  }
+                ],
+                "gameType": {
+                  "code": 0,
+                  "name": "일반"
+                },
+                "sportsCodeName": "야구",
+                "matchType": {
+                  "code": 1,
+                  "name": "대진"
+                },
+                "homeTeamSeq": 173,
+                "gameTitle": "KT VS 롯데",
+                "broadcastType": {
+                  "code": 1,
+                  "name": "영상"
+                },
+                "awayTeamStartingPitcher": "조이현",
+                "awayTeamLogoPath": "/team/179/logo_1679896446003.png",
+                "timeMachineStatus": {
+                  "code": 0,
+                  "name": "미제공"
+                },
+                "weather": {
+                  "code": 1,
+                  "name": "맑음"
+                },
+                "stadium": "사직",
+                "startTime": "18:30:00",
+                "gameLinkTabType": {
+                  "code": 7,
+                  "name": "스포키랩"
+                },
+                "seq": 33176,
+                "homeTeamLogoPath": "/team/173/logo_1679896578985.png",
+                "awayTeamSeq": 179,
+                "liveStartDate": "2024-09-05 18:15:00",
+                "sportsCodeValue": "kbaseball",
+                "leagueCodeName": "KBO",
+                "gameStatus": {
+                  "code": 1,
+                  "name": "경기전"
+                },
+                "homeTeamStartingPitcher": "정현수",
+                "leagueCodeValue": "kbo",
+                "awayTeamName": "KT",
+                "homeTeamName": "롯데",
+                "startDate": "2024-09-05"
+              }
+            ]
+          },
+          {
+            "date": "2024-09-06",
+            "gameList": [
+              {
+                "broadcast": [
+                  {
+                    "channelName": "롯데 편파 라이브톡",
+                    "channelType": {
+                      "code": 46
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d11scj4c5nlhpg.cloudfront.net/h264/kbaseball_lotte/hls/master.m3u8"
+                  },
+                  {
+                    "channelName": "삼성 편파 라이브톡",
+                    "channelType": {
+                      "code": 50
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d1soxe5yzlfx4a.cloudfront.net/h264/kbaseball_samsung/hls/master.m3u8"
+                  }
+                ],
+                "gameType": {
+                  "code": 0,
+                  "name": "일반"
+                },
+                "sportsCodeName": "야구",
+                "matchType": {
+                  "code": 1,
+                  "name": "대진"
+                },
+                "homeTeamSeq": 173,
+                "gameTitle": "삼성 VS 롯데",
+                "broadcastType": {
+                  "code": 1,
+                  "name": "영상"
+                },
+                "awayTeamLogoPath": "/team/177/logo_1679896472469.png",
+                "timeMachineStatus": {
+                  "code": 0,
+                  "name": "미제공"
+                },
+                "stadium": "사직",
+                "startTime": "18:30:00",
+                "gameLinkTabType": {
+                  "code": 7,
+                  "name": "스포키랩"
+                },
+                "seq": 33179,
+                "homeTeamLogoPath": "/team/173/logo_1679896578985.png",
+                "awayTeamSeq": 177,
+                "liveStartDate": "2024-09-06 18:15:00",
+                "sportsCodeValue": "kbaseball",
+                "leagueCodeName": "KBO",
+                "gameStatus": {
+                  "code": 1,
+                  "name": "경기전"
+                },
+                "leagueCodeValue": "kbo",
+                "awayTeamName": "삼성",
+                "homeTeamName": "롯데",
+                "startDate": "2024-09-06"
+              }
+            ]
+          },
+          {
+            "date": "2024-09-07",
+            "gameList": [
+              {
+                "broadcast": [
+                  {
+                    "channelName": "롯데 편파 라이브톡",
+                    "channelType": {
+                      "code": 46
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d11scj4c5nlhpg.cloudfront.net/h264/kbaseball_lotte/hls/master.m3u8"
+                  },
+                  {
+                    "channelName": "SSG 편파 라이브톡",
+                    "channelType": {
+                      "code": 51
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d1soxe5yzlfx4a.cloudfront.net/h264/kbaseball_ssg/hls/master.m3u8"
+                  }
+                ],
+                "gameType": {
+                  "code": 0,
+                  "name": "일반"
+                },
+                "sportsCodeName": "야구",
+                "matchType": {
+                  "code": 1,
+                  "name": "대진"
+                },
+                "homeTeamSeq": 173,
+                "gameTitle": "SSG VS 롯데",
+                "broadcastType": {
+                  "code": 1,
+                  "name": "영상"
+                },
+                "awayTeamLogoPath": "/team/176/logo_1705305913436.png",
+                "timeMachineStatus": {
+                  "code": 0,
+                  "name": "미제공"
+                },
+                "stadium": "사직",
+                "startTime": "17:00:00",
+                "gameLinkTabType": {
+                  "code": 7,
+                  "name": "스포키랩"
+                },
+                "seq": 33184,
+                "homeTeamLogoPath": "/team/173/logo_1679896578985.png",
+                "awayTeamSeq": 176,
+                "liveStartDate": "2024-09-07 16:45:00",
+                "sportsCodeValue": "kbaseball",
+                "leagueCodeName": "KBO",
+                "gameStatus": {
+                  "code": 1,
+                  "name": "경기전"
+                },
+                "leagueCodeValue": "kbo",
+                "awayTeamName": "SSG",
+                "homeTeamName": "롯데",
+                "startDate": "2024-09-07"
+              }
+            ]
+          },
+          {
+            "date": "2024-09-08",
+            "gameList": [
+              {
+                "broadcast": [
+                  {
+                    "channelName": "롯데 편파 라이브톡",
+                    "channelType": {
+                      "code": 46
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d11scj4c5nlhpg.cloudfront.net/h264/kbaseball_lotte/hls/master.m3u8"
+                  },
+                  {
+                    "channelName": "SSG 편파 라이브톡",
+                    "channelType": {
+                      "code": 51
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d1soxe5yzlfx4a.cloudfront.net/h264/kbaseball_ssg/hls/master.m3u8"
+                  }
+                ],
+                "gameType": {
+                  "code": 0,
+                  "name": "일반"
+                },
+                "sportsCodeName": "야구",
+                "matchType": {
+                  "code": 1,
+                  "name": "대진"
+                },
+                "homeTeamSeq": 173,
+                "gameTitle": "SSG VS 롯데",
+                "broadcastType": {
+                  "code": 1,
+                  "name": "영상"
+                },
+                "awayTeamLogoPath": "/team/176/logo_1705305913436.png",
+                "timeMachineStatus": {
+                  "code": 0,
+                  "name": "미제공"
+                },
+                "stadium": "사직",
+                "startTime": "14:00:00",
+                "gameLinkTabType": {
+                  "code": 7,
+                  "name": "스포키랩"
+                },
+                "seq": 33189,
+                "homeTeamLogoPath": "/team/173/logo_1679896578985.png",
+                "awayTeamSeq": 176,
+                "liveStartDate": "2024-09-08 13:45:00",
+                "sportsCodeValue": "kbaseball",
+                "leagueCodeName": "KBO",
+                "gameStatus": {
+                  "code": 1,
+                  "name": "경기전"
+                },
+                "leagueCodeValue": "kbo",
+                "awayTeamName": "SSG",
+                "homeTeamName": "롯데",
+                "startDate": "2024-09-08"
+              }
+            ]
+          },
+          {
+            "date": "2024-09-10",
+            "gameList": [
+              {
+                "gameType": {
+                  "code": 0,
+                  "name": "일반"
+                },
+                "sportsCodeName": "야구",
+                "matchType": {
+                  "code": 1,
+                  "name": "대진"
+                },
+                "homeTeamSeq": 172,
+                "gameTitle": "롯데 VS LG",
+                "broadcastType": {
+                  "code": 99,
+                  "name": "없음"
+                },
+                "awayTeamLogoPath": "/team/173/logo_1679896578985.png",
+                "timeMachineStatus": {
+                  "code": 0,
+                  "name": "미제공"
+                },
+                "stadium": "잠실",
+                "startTime": "18:30:00",
+                "gameLinkTabType": {
+                  "code": 7,
+                  "name": "스포키랩"
+                },
+                "seq": 33193,
+                "homeTeamLogoPath": "/team/172/logo_1679896533642.png",
+                "awayTeamSeq": 173,
+                "sportsCodeValue": "kbaseball",
+                "leagueCodeName": "KBO",
+                "gameStatus": {
+                  "code": 1,
+                  "name": "경기전"
+                },
+                "leagueCodeValue": "kbo",
+                "awayTeamName": "롯데",
+                "homeTeamName": "LG",
+                "startDate": "2024-09-10"
+              }
+            ]
+          },
+          {
+            "date": "2024-09-11",
+            "gameList": [
+              {
+                "gameType": {
+                  "code": 0,
+                  "name": "일반"
+                },
+                "sportsCodeName": "야구",
+                "matchType": {
+                  "code": 1,
+                  "name": "대진"
+                },
+                "homeTeamSeq": 176,
+                "gameTitle": "롯데 VS SSG",
+                "broadcastType": {
+                  "code": 99,
+                  "name": "없음"
+                },
+                "awayTeamLogoPath": "/team/173/logo_1679896578985.png",
+                "timeMachineStatus": {
+                  "code": 0,
+                  "name": "미제공"
+                },
+                "stadium": "문학",
+                "startTime": "18:30:00",
+                "gameLinkTabType": {
+                  "code": 7,
+                  "name": "스포키랩"
+                },
+                "seq": 33195,
+                "homeTeamLogoPath": "/team/176/logo_1705305913436.png",
+                "awayTeamSeq": 173,
+                "sportsCodeValue": "kbaseball",
+                "leagueCodeName": "KBO",
+                "gameStatus": {
+                  "code": 1,
+                  "name": "경기전"
+                },
+                "leagueCodeValue": "kbo",
+                "awayTeamName": "롯데",
+                "homeTeamName": "SSG",
+                "startDate": "2024-09-11"
+              }
+            ]
+          },
+          {
+            "date": "2024-09-12",
+            "gameList": [
+              {
+                "gameType": {
+                  "code": 0,
+                  "name": "일반"
+                },
+                "sportsCodeName": "야구",
+                "matchType": {
+                  "code": 1,
+                  "name": "대진"
+                },
+                "homeTeamSeq": 171,
+                "gameTitle": "롯데 VS KIA",
+                "broadcastType": {
+                  "code": 99,
+                  "name": "없음"
+                },
+                "awayTeamLogoPath": "/team/173/logo_1679896578985.png",
+                "timeMachineStatus": {
+                  "code": 0,
+                  "name": "미제공"
+                },
+                "stadium": "광주",
+                "startTime": "18:30:00",
+                "gameLinkTabType": {
+                  "code": 7,
+                  "name": "스포키랩"
+                },
+                "seq": 33384,
+                "homeTeamLogoPath": "/team/171/logo_1679896542924.png",
+                "awayTeamSeq": 173,
+                "sportsCodeValue": "kbaseball",
+                "leagueCodeName": "KBO",
+                "gameStatus": {
+                  "code": 1,
+                  "name": "경기전"
+                },
+                "leagueCodeValue": "kbo",
+                "awayTeamName": "롯데",
+                "homeTeamName": "KIA",
+                "startDate": "2024-09-12"
+              }
+            ]
+          },
+          {
+            "date": "2024-09-13",
+            "gameList": [
+              {
+                "gameType": {
+                  "code": 0,
+                  "name": "일반"
+                },
+                "sportsCodeName": "야구",
+                "matchType": {
+                  "code": 1,
+                  "name": "대진"
+                },
+                "homeTeamSeq": 173,
+                "gameTitle": "한화 VS 롯데",
+                "broadcastType": {
+                  "code": 99,
+                  "name": "없음"
+                },
+                "awayTeamLogoPath": "/team/170/logo_1679896552902.png",
+                "timeMachineStatus": {
+                  "code": 0,
+                  "name": "미제공"
+                },
+                "stadium": "사직",
+                "startTime": "18:30:00",
+                "gameLinkTabType": {
+                  "code": 7,
+                  "name": "스포키랩"
+                },
+                "seq": 33201,
+                "homeTeamLogoPath": "/team/173/logo_1679896578985.png",
+                "awayTeamSeq": 170,
+                "sportsCodeValue": "kbaseball",
+                "leagueCodeName": "KBO",
+                "gameStatus": {
+                  "code": 1,
+                  "name": "경기전"
+                },
+                "leagueCodeValue": "kbo",
+                "awayTeamName": "한화",
+                "homeTeamName": "롯데",
+                "startDate": "2024-09-13"
+              }
+            ]
+          },
+          {
+            "date": "2024-09-14",
+            "gameList": [
+              {
+                "gameType": {
+                  "code": 0,
+                  "name": "일반"
+                },
+                "sportsCodeName": "야구",
+                "matchType": {
+                  "code": 1,
+                  "name": "대진"
+                },
+                "homeTeamSeq": 173,
+                "gameTitle": "한화 VS 롯데",
+                "broadcastType": {
+                  "code": 99,
+                  "name": "없음"
+                },
+                "awayTeamLogoPath": "/team/170/logo_1679896552902.png",
+                "timeMachineStatus": {
+                  "code": 0,
+                  "name": "미제공"
+                },
+                "stadium": "사직",
+                "startTime": "14:00:00",
+                "gameLinkTabType": {
+                  "code": 7,
+                  "name": "스포키랩"
+                },
+                "seq": 33207,
+                "homeTeamLogoPath": "/team/173/logo_1679896578985.png",
+                "awayTeamSeq": 170,
+                "sportsCodeValue": "kbaseball",
+                "leagueCodeName": "KBO",
+                "gameStatus": {
+                  "code": 1,
+                  "name": "경기전"
+                },
+                "leagueCodeValue": "kbo",
+                "awayTeamName": "한화",
+                "homeTeamName": "롯데",
+                "startDate": "2024-09-14"
+              }
+            ]
+          },
+          {
+            "date": "2024-09-15",
+            "gameList": [
+              {
+                "gameType": {
+                  "code": 0,
+                  "name": "일반"
+                },
+                "sportsCodeName": "야구",
+                "matchType": {
+                  "code": 1,
+                  "name": "대진"
+                },
+                "homeTeamSeq": 173,
+                "gameTitle": "한화 VS 롯데",
+                "broadcastType": {
+                  "code": 99,
+                  "name": "없음"
+                },
+                "awayTeamLogoPath": "/team/170/logo_1679896552902.png",
+                "timeMachineStatus": {
+                  "code": 0,
+                  "name": "미제공"
+                },
+                "stadium": "사직",
+                "startTime": "14:00:00",
+                "gameLinkTabType": {
+                  "code": 7,
+                  "name": "스포키랩"
+                },
+                "seq": 33211,
+                "homeTeamLogoPath": "/team/173/logo_1679896578985.png",
+                "awayTeamSeq": 170,
+                "sportsCodeValue": "kbaseball",
+                "leagueCodeName": "KBO",
+                "gameStatus": {
+                  "code": 1,
+                  "name": "경기전"
+                },
+                "leagueCodeValue": "kbo",
+                "awayTeamName": "한화",
+                "homeTeamName": "롯데",
+                "startDate": "2024-09-15"
+              }
+            ]
+          },
+          {
+            "date": "2024-09-17",
+            "gameList": [
+              {
+                "gameType": {
+                  "code": 0,
+                  "name": "일반"
+                },
+                "sportsCodeName": "야구",
+                "matchType": {
+                  "code": 1,
+                  "name": "대진"
+                },
+                "homeTeamSeq": 173,
+                "gameTitle": "LG VS 롯데",
+                "broadcastType": {
+                  "code": 99,
+                  "name": "없음"
+                },
+                "awayTeamLogoPath": "/team/172/logo_1679896533642.png",
+                "timeMachineStatus": {
+                  "code": 0,
+                  "name": "미제공"
+                },
+                "stadium": "사직",
+                "startTime": "14:00:00",
+                "gameLinkTabType": {
+                  "code": 7,
+                  "name": "스포키랩"
+                },
+                "seq": 33216,
+                "homeTeamLogoPath": "/team/173/logo_1679896578985.png",
+                "awayTeamSeq": 172,
+                "sportsCodeValue": "kbaseball",
+                "leagueCodeName": "KBO",
+                "gameStatus": {
+                  "code": 1,
+                  "name": "경기전"
+                },
+                "leagueCodeValue": "kbo",
+                "awayTeamName": "LG",
+                "homeTeamName": "롯데",
+                "startDate": "2024-09-17"
+              }
+            ]
+          },
+          {
+            "date": "2024-09-18",
+            "gameList": [
+              {
+                "gameType": {
+                  "code": 0,
+                  "name": "일반"
+                },
+                "sportsCodeName": "야구",
+                "matchType": {
+                  "code": 1,
+                  "name": "대진"
+                },
+                "homeTeamSeq": 173,
+                "gameTitle": "LG VS 롯데",
+                "broadcastType": {
+                  "code": 99,
+                  "name": "없음"
+                },
+                "awayTeamLogoPath": "/team/172/logo_1679896533642.png",
+                "timeMachineStatus": {
+                  "code": 0,
+                  "name": "미제공"
+                },
+                "stadium": "사직",
+                "startTime": "14:00:00",
+                "gameLinkTabType": {
+                  "code": 7,
+                  "name": "스포키랩"
+                },
+                "seq": 33221,
+                "homeTeamLogoPath": "/team/173/logo_1679896578985.png",
+                "awayTeamSeq": 172,
+                "sportsCodeValue": "kbaseball",
+                "leagueCodeName": "KBO",
+                "gameStatus": {
+                  "code": 1,
+                  "name": "경기전"
+                },
+                "leagueCodeValue": "kbo",
+                "awayTeamName": "LG",
+                "homeTeamName": "롯데",
+                "startDate": "2024-09-18"
+              }
+            ]
+          },
+          {
+            "date": "2024-09-19",
+            "gameList": [
+              {
+                "gameType": {
+                  "code": 0,
+                  "name": "일반"
+                },
+                "sportsCodeName": "야구",
+                "matchType": {
+                  "code": 1,
+                  "name": "대진"
+                },
+                "homeTeamSeq": 173,
+                "gameTitle": "LG VS 롯데",
+                "broadcastType": {
+                  "code": 99,
+                  "name": "없음"
+                },
+                "awayTeamLogoPath": "/team/172/logo_1679896533642.png",
+                "timeMachineStatus": {
+                  "code": 0,
+                  "name": "미제공"
+                },
+                "stadium": "사직",
+                "startTime": "18:30:00",
+                "gameLinkTabType": {
+                  "code": 7,
+                  "name": "스포키랩"
+                },
+                "seq": 33224,
+                "homeTeamLogoPath": "/team/173/logo_1679896578985.png",
+                "awayTeamSeq": 172,
+                "sportsCodeValue": "kbaseball",
+                "leagueCodeName": "KBO",
+                "gameStatus": {
+                  "code": 1,
+                  "name": "경기전"
+                },
+                "leagueCodeValue": "kbo",
+                "awayTeamName": "LG",
+                "homeTeamName": "롯데",
+                "startDate": "2024-09-19"
+              }
+            ]
+          },
+          {
+            "date": "2024-09-20",
+            "gameList": [
+              {
+                "gameType": {
+                  "code": 0,
+                  "name": "일반"
+                },
+                "sportsCodeName": "야구",
+                "matchType": {
+                  "code": 1,
+                  "name": "대진"
+                },
+                "homeTeamSeq": 174,
+                "gameTitle": "롯데 VS NC",
+                "broadcastType": {
+                  "code": 99,
+                  "name": "없음"
+                },
+                "awayTeamLogoPath": "/team/173/logo_1679896578985.png",
+                "timeMachineStatus": {
+                  "code": 0,
+                  "name": "미제공"
+                },
+                "stadium": "창원",
+                "startTime": "18:30:00",
+                "gameLinkTabType": {
+                  "code": 7,
+                  "name": "스포키랩"
+                },
+                "seq": 33229,
+                "homeTeamLogoPath": "/team/174/logo_1679896506250.png",
+                "awayTeamSeq": 173,
+                "sportsCodeValue": "kbaseball",
+                "leagueCodeName": "KBO",
+                "gameStatus": {
+                  "code": 1,
+                  "name": "경기전"
+                },
+                "leagueCodeValue": "kbo",
+                "awayTeamName": "롯데",
+                "homeTeamName": "NC",
+                "startDate": "2024-09-20"
+              }
+            ]
+          },
+          {
+            "date": "2024-09-21",
+            "gameList": [
+              {
+                "gameType": {
+                  "code": 0,
+                  "name": "일반"
+                },
+                "sportsCodeName": "야구",
+                "matchType": {
+                  "code": 1,
+                  "name": "대진"
+                },
+                "homeTeamSeq": 170,
+                "gameTitle": "롯데 VS 한화",
+                "broadcastType": {
+                  "code": 99,
+                  "name": "없음"
+                },
+                "awayTeamLogoPath": "/team/173/logo_1679896578985.png",
+                "timeMachineStatus": {
+                  "code": 0,
+                  "name": "미제공"
+                },
+                "stadium": "대전",
+                "startTime": "17:00:00",
+                "gameLinkTabType": {
+                  "code": 7,
+                  "name": "스포키랩"
+                },
+                "seq": 33232,
+                "homeTeamLogoPath": "/team/170/logo_1679896552902.png",
+                "awayTeamSeq": 173,
+                "sportsCodeValue": "kbaseball",
+                "leagueCodeName": "KBO",
+                "gameStatus": {
+                  "code": 1,
+                  "name": "경기전"
+                },
+                "leagueCodeValue": "kbo",
+                "awayTeamName": "롯데",
+                "homeTeamName": "한화",
+                "startDate": "2024-09-21"
+              }
+            ]
+          },
+          {
+            "date": "2024-09-22",
+            "gameList": [
+              {
+                "gameType": {
+                  "code": 0,
+                  "name": "일반"
+                },
+                "sportsCodeName": "야구",
+                "matchType": {
+                  "code": 1,
+                  "name": "대진"
+                },
+                "homeTeamSeq": 170,
+                "gameTitle": "롯데 VS 한화",
+                "broadcastType": {
+                  "code": 99,
+                  "name": "없음"
+                },
+                "awayTeamLogoPath": "/team/173/logo_1679896578985.png",
+                "timeMachineStatus": {
+                  "code": 0,
+                  "name": "미제공"
+                },
+                "stadium": "대전",
+                "startTime": "14:00:00",
+                "gameLinkTabType": {
+                  "code": 7,
+                  "name": "스포키랩"
+                },
+                "seq": 33238,
+                "homeTeamLogoPath": "/team/170/logo_1679896552902.png",
+                "awayTeamSeq": 173,
+                "sportsCodeValue": "kbaseball",
+                "leagueCodeName": "KBO",
+                "gameStatus": {
+                  "code": 1,
+                  "name": "경기전"
+                },
+                "leagueCodeValue": "kbo",
+                "awayTeamName": "롯데",
+                "homeTeamName": "한화",
+                "startDate": "2024-09-22"
+              }
+            ]
+          },
+          {
+            "date": "2024-09-24",
+            "gameList": [
+              {
+                "gameType": {
+                  "code": 0,
+                  "name": "일반"
+                },
+                "sportsCodeName": "야구",
+                "matchType": {
+                  "code": 1,
+                  "name": "대진"
+                },
+                "homeTeamSeq": 179,
+                "gameTitle": "롯데 VS KT",
+                "broadcastType": {
+                  "code": 99,
+                  "name": "없음"
+                },
+                "awayTeamLogoPath": "/team/173/logo_1679896578985.png",
+                "timeMachineStatus": {
+                  "code": 0,
+                  "name": "미제공"
+                },
+                "stadium": "수원",
+                "startTime": "18:30:00",
+                "gameLinkTabType": {
+                  "code": 7,
+                  "name": "스포키랩"
+                },
+                "seq": 33243,
+                "homeTeamLogoPath": "/team/179/logo_1679896446003.png",
+                "awayTeamSeq": 173,
+                "sportsCodeValue": "kbaseball",
+                "leagueCodeName": "KBO",
+                "gameStatus": {
+                  "code": 1,
+                  "name": "경기전"
+                },
+                "leagueCodeValue": "kbo",
+                "awayTeamName": "롯데",
+                "homeTeamName": "KT",
+                "startDate": "2024-09-24"
+              }
+            ]
+          },
+          {
+            "date": "2024-09-25",
+            "gameList": [
+              {
+                "gameType": {
+                  "code": 0,
+                  "name": "일반"
+                },
+                "sportsCodeName": "야구",
+                "matchType": {
+                  "code": 1,
+                  "name": "대진"
+                },
+                "homeTeamSeq": 171,
+                "gameTitle": "롯데 VS KIA",
+                "broadcastType": {
+                  "code": 99,
+                  "name": "없음"
+                },
+                "awayTeamLogoPath": "/team/173/logo_1679896578985.png",
+                "timeMachineStatus": {
+                  "code": 0,
+                  "name": "미제공"
+                },
+                "stadium": "광주",
+                "startTime": "18:30:00",
+                "gameLinkTabType": {
+                  "code": 7,
+                  "name": "스포키랩"
+                },
+                "seq": 33245,
+                "homeTeamLogoPath": "/team/171/logo_1679896542924.png",
+                "awayTeamSeq": 173,
+                "sportsCodeValue": "kbaseball",
+                "leagueCodeName": "KBO",
+                "gameStatus": {
+                  "code": 1,
+                  "name": "경기전"
+                },
+                "leagueCodeValue": "kbo",
+                "awayTeamName": "롯데",
+                "homeTeamName": "KIA",
+                "startDate": "2024-09-25"
+              }
+            ]
+          },
+          {
+            "date": "2024-09-26",
+            "gameList": [
+              {
+                "gameType": {
+                  "code": 0,
+                  "name": "일반"
+                },
+                "sportsCodeName": "야구",
+                "matchType": {
+                  "code": 1,
+                  "name": "대진"
+                },
+                "homeTeamSeq": 173,
+                "gameTitle": "두산 VS 롯데",
+                "broadcastType": {
+                  "code": 99,
+                  "name": "없음"
+                },
+                "awayTeamLogoPath": "/team/175/logo_1679896495060.png",
+                "timeMachineStatus": {
+                  "code": 0,
+                  "name": "미제공"
+                },
+                "stadium": "사직",
+                "startTime": "18:30:00",
+                "gameLinkTabType": {
+                  "code": 7,
+                  "name": "스포키랩"
+                },
+                "seq": 33249,
+                "homeTeamLogoPath": "/team/173/logo_1679896578985.png",
+                "awayTeamSeq": 175,
+                "sportsCodeValue": "kbaseball",
+                "leagueCodeName": "KBO",
+                "gameStatus": {
+                  "code": 1,
+                  "name": "경기전"
+                },
+                "leagueCodeValue": "kbo",
+                "awayTeamName": "두산",
+                "homeTeamName": "롯데",
+                "startDate": "2024-09-26"
+              }
+            ]
+          },
+          {
+            "date": "2024-09-27",
+            "gameList": [
+              {
+                "gameType": {
+                  "code": 0,
+                  "name": "일반"
+                },
+                "sportsCodeName": "야구",
+                "matchType": {
+                  "code": 1,
+                  "name": "대진"
+                },
+                "homeTeamSeq": 173,
+                "gameTitle": "NC VS 롯데",
+                "broadcastType": {
+                  "code": 99,
+                  "name": "없음"
+                },
+                "awayTeamLogoPath": "/team/174/logo_1679896506250.png",
+                "timeMachineStatus": {
+                  "code": 0,
+                  "name": "미제공"
+                },
+                "stadium": "사직",
+                "startTime": "18:30:00",
+                "gameLinkTabType": {
+                  "code": 7,
+                  "name": "스포키랩"
+                },
+                "seq": 33252,
+                "homeTeamLogoPath": "/team/173/logo_1679896578985.png",
+                "awayTeamSeq": 174,
+                "sportsCodeValue": "kbaseball",
+                "leagueCodeName": "KBO",
+                "gameStatus": {
+                  "code": 1,
+                  "name": "경기전"
+                },
+                "leagueCodeValue": "kbo",
+                "awayTeamName": "NC",
+                "homeTeamName": "롯데",
+                "startDate": "2024-09-27"
+              }
+            ]
+          },
+          {
+            "date": "2024-09-28",
+            "gameList": [
+              {
+                "gameType": {
+                  "code": 0,
+                  "name": "일반"
+                },
+                "sportsCodeName": "야구",
+                "matchType": {
+                  "code": 1,
+                  "name": "대진"
+                },
+                "homeTeamSeq": 173,
+                "gameTitle": "KIA VS 롯데",
+                "broadcastType": {
+                  "code": 99,
+                  "name": "없음"
+                },
+                "awayTeamLogoPath": "/team/171/logo_1679896542924.png",
+                "timeMachineStatus": {
+                  "code": 0,
+                  "name": "미제공"
+                },
+                "stadium": "사직",
+                "startTime": "17:00:00",
+                "gameLinkTabType": {
+                  "code": 7,
+                  "name": "스포키랩"
+                },
+                "seq": 33256,
+                "homeTeamLogoPath": "/team/173/logo_1679896578985.png",
+                "awayTeamSeq": 171,
+                "sportsCodeValue": "kbaseball",
+                "leagueCodeName": "KBO",
+                "gameStatus": {
+                  "code": 1,
+                  "name": "경기전"
+                },
+                "leagueCodeValue": "kbo",
+                "awayTeamName": "KIA",
+                "homeTeamName": "롯데",
+                "startDate": "2024-09-28"
+              }
+            ]
+          }
+        ]
+      },
+      "lgTwins": {
+        "gameSchedule": [
+          {
+            "date": "2024-09-03",
+            "gameList": [
+              {
+                "broadcast": [
+                  {
+                    "channelName": "KIA 편파 라이브톡",
+                    "channelType": {
+                      "code": 45
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d11scj4c5nlhpg.cloudfront.net/h264/kbaseball_kia/hls/master.m3u8"
+                  },
+                  {
+                    "channelName": "LG 편파 라이브톡",
+                    "channelType": {
+                      "code": 44
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d11scj4c5nlhpg.cloudfront.net/h264/kbaseball_lg/hls/master.m3u8"
+                  }
+                ],
+                "gameType": {
+                  "code": 0,
+                  "name": "일반"
+                },
+                "sportsCodeName": "야구",
+                "matchType": {
+                  "code": 1,
+                  "name": "대진"
+                },
+                "homeTeamSeq": 171,
+                "gameTitle": "LG VS KIA",
+                "broadcastType": {
+                  "code": 1,
+                  "name": "영상"
+                },
+                "awayTeamStartingPitcher": "에르난데스",
+                "awayTeamLogoPath": "/team/172/logo_1679896533642.png",
+                "timeMachineStatus": {
+                  "code": 0,
+                  "name": "미제공"
+                },
+                "stadium": "광주",
+                "startTime": "18:30:00",
+                "gameLinkTabType": {
+                  "code": 5,
+                  "name": "영상"
+                },
+                "seq": 33167,
+                "homeTeamLogoPath": "/team/171/logo_1679896542924.png",
+                "losingPitcher": {
+                  "homeAwayType": {
+                    "code": 2,
+                    "name": "원정"
+                  },
+                  "pitcherName": "에르난데스"
+                },
+                "awayTeamSeq": 172,
+                "liveStartDate": "2024-09-03 18:15:00",
+                "sportsCodeValue": "kbaseball",
+                "leagueCodeName": "KBO",
+                "gameStatus": {
+                  "code": 3,
+                  "name": "경기종료"
+                },
+                "homeTeamStartingPitcher": "양현종",
+                "homeTeamScore": 7,
+                "leagueCodeValue": "kbo",
+                "awayTeamName": "LG",
+                "awayTeamScore": 5,
+                "homeTeamName": "KIA",
+                "winningPitcher": {
+                  "homeAwayType": {
+                    "code": 1,
+                    "name": "홈"
+                  },
+                  "pitcherName": "양현종"
+                },
+                "startDate": "2024-09-03"
+              }
+            ]
+          },
+          {
+            "date": "2024-09-04",
+            "gameList": [
+              {
+                "broadcast": [
+                  {
+                    "channelName": "LG 편파 라이브톡",
+                    "channelType": {
+                      "code": 44
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d11scj4c5nlhpg.cloudfront.net/h264/kbaseball_lg/hls/master.m3u8"
+                  },
+                  {
+                    "channelName": "SSG 편파 라이브톡",
+                    "channelType": {
+                      "code": 51
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d1soxe5yzlfx4a.cloudfront.net/h264/kbaseball_ssg/hls/master.m3u8"
+                  }
+                ],
+                "gameType": {
+                  "code": 0,
+                  "name": "일반"
+                },
+                "sportsCodeName": "야구",
+                "matchType": {
+                  "code": 1,
+                  "name": "대진"
+                },
+                "homeTeamSeq": 172,
+                "gameTitle": "SSG VS LG",
+                "broadcastType": {
+                  "code": 1,
+                  "name": "영상"
+                },
+                "awayTeamStartingPitcher": "오원석",
+                "awayTeamLogoPath": "/team/176/logo_1705305913436.png",
+                "timeMachineStatus": {
+                  "code": 0,
+                  "name": "미제공"
+                },
+                "stadium": "잠실",
+                "startTime": "18:30:00",
+                "gameLinkTabType": {
+                  "code": 5,
+                  "name": "영상"
+                },
+                "seq": 33172,
+                "homeTeamLogoPath": "/team/172/logo_1679896533642.png",
+                "losingPitcher": {
+                  "homeAwayType": {
+                    "code": 2,
+                    "name": "원정"
+                  },
+                  "pitcherName": "오원석"
+                },
+                "awayTeamSeq": 176,
+                "liveStartDate": "2024-09-04 18:15:00",
+                "sportsCodeValue": "kbaseball",
+                "leagueCodeName": "KBO",
+                "gameStatus": {
+                  "code": 3,
+                  "name": "경기종료"
+                },
+                "homeTeamStartingPitcher": "임찬규",
+                "homeTeamScore": 5,
+                "leagueCodeValue": "kbo",
+                "awayTeamName": "SSG",
+                "awayTeamScore": 0,
+                "homeTeamName": "LG",
+                "winningPitcher": {
+                  "homeAwayType": {
+                    "code": 1,
+                    "name": "홈"
+                  },
+                  "pitcherName": "임찬규"
+                },
+                "startDate": "2024-09-04"
+              }
+            ]
+          },
+          {
+            "date": "2024-09-05",
+            "gameList": [
+              {
+                "broadcast": [
+                  {
+                    "channelName": "LG 편파 라이브톡",
+                    "channelType": {
+                      "code": 44
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d11scj4c5nlhpg.cloudfront.net/h264/kbaseball_lg/hls/master.m3u8"
+                  },
+                  {
+                    "channelName": "SSG 편파 라이브톡",
+                    "channelType": {
+                      "code": 51
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d1soxe5yzlfx4a.cloudfront.net/h264/kbaseball_ssg/hls/master.m3u8"
+                  }
+                ],
+                "gameType": {
+                  "code": 0,
+                  "name": "일반"
+                },
+                "sportsCodeName": "야구",
+                "matchType": {
+                  "code": 1,
+                  "name": "대진"
+                },
+                "homeTeamSeq": 172,
+                "gameTitle": "SSG VS LG",
+                "broadcastType": {
+                  "code": 1,
+                  "name": "영상"
+                },
+                "awayTeamStartingPitcher": "김광현",
+                "awayTeamLogoPath": "/team/176/logo_1705305913436.png",
+                "timeMachineStatus": {
+                  "code": 0,
+                  "name": "미제공"
+                },
+                "weather": {
+                  "code": 3,
+                  "name": "흐림 (구름많음)"
+                },
+                "stadium": "잠실",
+                "startTime": "18:30:00",
+                "gameLinkTabType": {
+                  "code": 7,
+                  "name": "스포키랩"
+                },
+                "seq": 33175,
+                "homeTeamLogoPath": "/team/172/logo_1679896533642.png",
+                "awayTeamSeq": 176,
+                "liveStartDate": "2024-09-05 18:15:00",
+                "sportsCodeValue": "kbaseball",
+                "leagueCodeName": "KBO",
+                "gameStatus": {
+                  "code": 1,
+                  "name": "경기전"
+                },
+                "homeTeamStartingPitcher": "최원태",
+                "leagueCodeValue": "kbo",
+                "awayTeamName": "SSG",
+                "homeTeamName": "LG",
+                "startDate": "2024-09-05"
+              }
+            ]
+          }
+        ]
+      },
+      "kiaTigers": {
+        "gameSchedule": [
+          {
+            "date": "2024-09-01",
+            "gameList": [
+              {
+                "broadcast": [
+                  {
+                    "channelName": "삼성 편파 라이브톡",
+                    "channelType": {
+                      "code": 50
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d1soxe5yzlfx4a.cloudfront.net/h264/kbaseball_samsung/hls/master.m3u8"
+                  },
+                  {
+                    "channelName": "KIA 편파 라이브톡",
+                    "channelType": {
+                      "code": 45
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d11scj4c5nlhpg.cloudfront.net/h264/kbaseball_kia/hls/master.m3u8"
+                  }
+                ],
+                "gameType": {
+                  "code": 0,
+                  "name": "일반"
+                },
+                "sportsCodeName": "야구",
+                "matchType": {
+                  "code": 1,
+                  "name": "대진"
+                },
+                "homeTeamSeq": 177,
+                "gameTitle": "KIA VS 삼성",
+                "broadcastType": {
+                  "code": 1,
+                  "name": "영상"
+                },
+                "awayTeamStartingPitcher": "스타우트",
+                "awayTeamLogoPath": "/team/171/logo_1679896542924.png",
+                "timeMachineStatus": {
+                  "code": 0,
+                  "name": "미제공"
+                },
+                "stadium": "대구",
+                "startTime": "14:00:00",
+                "gameLinkTabType": {
+                  "code": 5,
+                  "name": "영상"
+                },
+                "seq": 33163,
+                "homeTeamLogoPath": "/team/177/logo_1679896472469.png",
+                "losingPitcher": {
+                  "homeAwayType": {
+                    "code": 1,
+                    "name": "홈"
+                  },
+                  "pitcherName": "임창민"
+                },
+                "awayTeamSeq": 171,
+                "liveStartDate": "2024-09-01 13:45:00",
+                "sportsCodeValue": "kbaseball",
+                "leagueCodeName": "KBO",
+                "gameStatus": {
+                  "code": 3,
+                  "name": "경기종료"
+                },
+                "homeTeamStartingPitcher": "원태인",
+                "homeTeamScore": 5,
+                "leagueCodeValue": "kbo",
+                "awayTeamName": "KIA",
+                "awayTeamScore": 6,
+                "homeTeamName": "삼성",
+                "winningPitcher": {
+                  "homeAwayType": {
+                    "code": 2,
+                    "name": "원정"
+                  },
+                  "pitcherName": "전상현"
+                },
+                "startDate": "2024-09-01"
+              }
+            ]
+          },
+          {
+            "date": "2024-09-03",
+            "gameList": [
+              {
+                "broadcast": [
+                  {
+                    "channelName": "KIA 편파 라이브톡",
+                    "channelType": {
+                      "code": 45
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d11scj4c5nlhpg.cloudfront.net/h264/kbaseball_kia/hls/master.m3u8"
+                  },
+                  {
+                    "channelName": "LG 편파 라이브톡",
+                    "channelType": {
+                      "code": 44
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d11scj4c5nlhpg.cloudfront.net/h264/kbaseball_lg/hls/master.m3u8"
+                  }
+                ],
+                "gameType": {
+                  "code": 0,
+                  "name": "일반"
+                },
+                "sportsCodeName": "야구",
+                "matchType": {
+                  "code": 1,
+                  "name": "대진"
+                },
+                "homeTeamSeq": 171,
+                "gameTitle": "LG VS KIA",
+                "broadcastType": {
+                  "code": 1,
+                  "name": "영상"
+                },
+                "awayTeamStartingPitcher": "에르난데스",
+                "awayTeamLogoPath": "/team/172/logo_1679896533642.png",
+                "timeMachineStatus": {
+                  "code": 0,
+                  "name": "미제공"
+                },
+                "stadium": "광주",
+                "startTime": "18:30:00",
+                "gameLinkTabType": {
+                  "code": 5,
+                  "name": "영상"
+                },
+                "seq": 33167,
+                "homeTeamLogoPath": "/team/171/logo_1679896542924.png",
+                "losingPitcher": {
+                  "homeAwayType": {
+                    "code": 2,
+                    "name": "원정"
+                  },
+                  "pitcherName": "에르난데스"
+                },
+                "awayTeamSeq": 172,
+                "liveStartDate": "2024-09-03 18:15:00",
+                "sportsCodeValue": "kbaseball",
+                "leagueCodeName": "KBO",
+                "gameStatus": {
+                  "code": 3,
+                  "name": "경기종료"
+                },
+                "homeTeamStartingPitcher": "양현종",
+                "homeTeamScore": 7,
+                "leagueCodeValue": "kbo",
+                "awayTeamName": "LG",
+                "awayTeamScore": 5,
+                "homeTeamName": "KIA",
+                "winningPitcher": {
+                  "homeAwayType": {
+                    "code": 1,
+                    "name": "홈"
+                  },
+                  "pitcherName": "양현종"
+                },
+                "startDate": "2024-09-03"
+              }
+            ]
+          },
+          {
+            "date": "2024-09-04",
+            "gameList": [
+              {
+                "broadcast": [
+                  {
+                    "channelName": "KIA 편파 라이브톡",
+                    "channelType": {
+                      "code": 45
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d11scj4c5nlhpg.cloudfront.net/h264/kbaseball_kia/hls/master.m3u8"
+                  },
+                  {
+                    "channelName": "한화 편파 라이브톡",
+                    "channelType": {
+                      "code": 47
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d11scj4c5nlhpg.cloudfront.net/h264/kbaseball_hanhwa/hls/master.m3u8"
+                  }
+                ],
+                "gameType": {
+                  "code": 0,
+                  "name": "일반"
+                },
+                "sportsCodeName": "야구",
+                "matchType": {
+                  "code": 1,
+                  "name": "대진"
+                },
+                "homeTeamSeq": 171,
+                "gameTitle": "한화 VS KIA",
+                "broadcastType": {
+                  "code": 1,
+                  "name": "영상"
+                },
+                "awayTeamStartingPitcher": "와이스",
+                "awayTeamLogoPath": "/team/170/logo_1679896552902.png",
+                "timeMachineStatus": {
+                  "code": 0,
+                  "name": "미제공"
+                },
+                "stadium": "광주",
+                "startTime": "18:30:00",
+                "gameLinkTabType": {
+                  "code": 5,
+                  "name": "영상"
+                },
+                "seq": 33170,
+                "homeTeamLogoPath": "/team/171/logo_1679896542924.png",
+                "losingPitcher": {
+                  "homeAwayType": {
+                    "code": 1,
+                    "name": "홈"
+                  },
+                  "pitcherName": "장현식"
+                },
+                "awayTeamSeq": 170,
+                "liveStartDate": "2024-09-04 18:15:00",
+                "sportsCodeValue": "kbaseball",
+                "leagueCodeName": "KBO",
+                "gameStatus": {
+                  "code": 3,
+                  "name": "경기종료"
+                },
+                "homeTeamStartingPitcher": "김도현",
+                "homeTeamScore": 4,
+                "leagueCodeValue": "kbo",
+                "awayTeamName": "한화",
+                "awayTeamScore": 5,
+                "homeTeamName": "KIA",
+                "winningPitcher": {
+                  "homeAwayType": {
+                    "code": 2,
+                    "name": "원정"
+                  },
+                  "pitcherName": "주현상"
+                },
+                "startDate": "2024-09-04"
+              }
+            ]
+          },
+          {
+            "date": "2024-09-05",
+            "gameList": [
+              {
+                "broadcast": [
+                  {
+                    "channelName": "KIA 편파 라이브톡",
+                    "channelType": {
+                      "code": 45
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d11scj4c5nlhpg.cloudfront.net/h264/kbaseball_kia/hls/master.m3u8"
+                  },
+                  {
+                    "channelName": "한화 편파 라이브톡",
+                    "channelType": {
+                      "code": 47
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d11scj4c5nlhpg.cloudfront.net/h264/kbaseball_hanhwa/hls/master.m3u8"
+                  }
+                ],
+                "gameType": {
+                  "code": 0,
+                  "name": "일반"
+                },
+                "sportsCodeName": "야구",
+                "matchType": {
+                  "code": 1,
+                  "name": "대진"
+                },
+                "homeTeamSeq": 171,
+                "gameTitle": "한화 VS KIA",
+                "broadcastType": {
+                  "code": 1,
+                  "name": "영상"
+                },
+                "awayTeamStartingPitcher": "바리아",
+                "awayTeamLogoPath": "/team/170/logo_1679896552902.png",
+                "timeMachineStatus": {
+                  "code": 0,
+                  "name": "미제공"
+                },
+                "weather": {
+                  "code": 1,
+                  "name": "맑음"
+                },
+                "stadium": "광주",
+                "startTime": "18:30:00",
+                "gameLinkTabType": {
+                  "code": 7,
+                  "name": "스포키랩"
+                },
+                "seq": 33173,
+                "homeTeamLogoPath": "/team/171/logo_1679896542924.png",
+                "awayTeamSeq": 170,
+                "liveStartDate": "2024-09-05 18:15:00",
+                "sportsCodeValue": "kbaseball",
+                "leagueCodeName": "KBO",
+                "gameStatus": {
+                  "code": 1,
+                  "name": "경기전"
+                },
+                "homeTeamStartingPitcher": "라우어",
+                "leagueCodeValue": "kbo",
+                "awayTeamName": "한화",
+                "homeTeamName": "KIA",
+                "startDate": "2024-09-05"
+              }
+            ]
+          }
+        ]
+      },
+      "hanhwaEagles": {
+        "gameSchedule": [
+          {
+            "date": "2024-09-04",
+            "gameList": [
+              {
+                "broadcast": [
+                  {
+                    "channelName": "KIA 편파 라이브톡",
+                    "channelType": {
+                      "code": 45
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d11scj4c5nlhpg.cloudfront.net/h264/kbaseball_kia/hls/master.m3u8"
+                  },
+                  {
+                    "channelName": "한화 편파 라이브톡",
+                    "channelType": {
+                      "code": 47
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d11scj4c5nlhpg.cloudfront.net/h264/kbaseball_hanhwa/hls/master.m3u8"
+                  }
+                ],
+                "gameType": {
+                  "code": 0,
+                  "name": "일반"
+                },
+                "sportsCodeName": "야구",
+                "matchType": {
+                  "code": 1,
+                  "name": "대진"
+                },
+                "homeTeamSeq": 171,
+                "gameTitle": "한화 VS KIA",
+                "broadcastType": {
+                  "code": 1,
+                  "name": "영상"
+                },
+                "awayTeamStartingPitcher": "와이스",
+                "awayTeamLogoPath": "/team/170/logo_1679896552902.png",
+                "timeMachineStatus": {
+                  "code": 0,
+                  "name": "미제공"
+                },
+                "stadium": "광주",
+                "startTime": "18:30:00",
+                "gameLinkTabType": {
+                  "code": 5,
+                  "name": "영상"
+                },
+                "seq": 33170,
+                "homeTeamLogoPath": "/team/171/logo_1679896542924.png",
+                "losingPitcher": {
+                  "homeAwayType": {
+                    "code": 1,
+                    "name": "홈"
+                  },
+                  "pitcherName": "장현식"
+                },
+                "awayTeamSeq": 170,
+                "liveStartDate": "2024-09-04 18:15:00",
+                "sportsCodeValue": "kbaseball",
+                "leagueCodeName": "KBO",
+                "gameStatus": {
+                  "code": 3,
+                  "name": "경기종료"
+                },
+                "homeTeamStartingPitcher": "김도현",
+                "homeTeamScore": 4,
+                "leagueCodeValue": "kbo",
+                "awayTeamName": "한화",
+                "awayTeamScore": 5,
+                "homeTeamName": "KIA",
+                "winningPitcher": {
+                  "homeAwayType": {
+                    "code": 2,
+                    "name": "원정"
+                  },
+                  "pitcherName": "주현상"
+                },
+                "startDate": "2024-09-04"
+              }
+            ]
+          },
+          {
+            "date": "2024-09-05",
+            "gameList": [
+              {
+                "broadcast": [
+                  {
+                    "channelName": "KIA 편파 라이브톡",
+                    "channelType": {
+                      "code": 45
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d11scj4c5nlhpg.cloudfront.net/h264/kbaseball_kia/hls/master.m3u8"
+                  },
+                  {
+                    "channelName": "한화 편파 라이브톡",
+                    "channelType": {
+                      "code": 47
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d11scj4c5nlhpg.cloudfront.net/h264/kbaseball_hanhwa/hls/master.m3u8"
+                  }
+                ],
+                "gameType": {
+                  "code": 0,
+                  "name": "일반"
+                },
+                "sportsCodeName": "야구",
+                "matchType": {
+                  "code": 1,
+                  "name": "대진"
+                },
+                "homeTeamSeq": 171,
+                "gameTitle": "한화 VS KIA",
+                "broadcastType": {
+                  "code": 1,
+                  "name": "영상"
+                },
+                "awayTeamStartingPitcher": "바리아",
+                "awayTeamLogoPath": "/team/170/logo_1679896552902.png",
+                "timeMachineStatus": {
+                  "code": 0,
+                  "name": "미제공"
+                },
+                "weather": {
+                  "code": 1,
+                  "name": "맑음"
+                },
+                "stadium": "광주",
+                "startTime": "18:30:00",
+                "gameLinkTabType": {
+                  "code": 7,
+                  "name": "스포키랩"
+                },
+                "seq": 33173,
+                "homeTeamLogoPath": "/team/171/logo_1679896542924.png",
+                "awayTeamSeq": 170,
+                "liveStartDate": "2024-09-05 18:15:00",
+                "sportsCodeValue": "kbaseball",
+                "leagueCodeName": "KBO",
+                "gameStatus": {
+                  "code": 1,
+                  "name": "경기전"
+                },
+                "homeTeamStartingPitcher": "라우어",
+                "leagueCodeValue": "kbo",
+                "awayTeamName": "한화",
+                "homeTeamName": "KIA",
+                "startDate": "2024-09-05"
+              }
+            ]
+          },
+          {
+            "date": "2024-09-06",
+            "gameList": [
+              {
+                "broadcast": [
+                  {
+                    "channelName": "LG 편파 라이브톡",
+                    "channelType": {
+                      "code": 44
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d11scj4c5nlhpg.cloudfront.net/h264/kbaseball_lg/hls/master.m3u8"
+                  },
+                  {
+                    "channelName": "한화 편파 라이브톡",
+                    "channelType": {
+                      "code": 47
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d11scj4c5nlhpg.cloudfront.net/h264/kbaseball_hanhwa/hls/master.m3u8"
+                  }
+                ],
+                "gameType": {
+                  "code": 0,
+                  "name": "일반"
+                },
+                "sportsCodeName": "야구",
+                "matchType": {
+                  "code": 1,
+                  "name": "대진"
+                },
+                "homeTeamSeq": 172,
+                "gameTitle": "한화 VS LG",
+                "broadcastType": {
+                  "code": 1,
+                  "name": "영상"
+                },
+                "awayTeamLogoPath": "/team/170/logo_1679896552902.png",
+                "timeMachineStatus": {
+                  "code": 0,
+                  "name": "미제공"
+                },
+                "stadium": "잠실",
+                "startTime": "18:30:00",
+                "gameLinkTabType": {
+                  "code": 7,
+                  "name": "스포키랩"
+                },
+                "seq": 33177,
+                "homeTeamLogoPath": "/team/172/logo_1679896533642.png",
+                "awayTeamSeq": 170,
+                "liveStartDate": "2024-09-06 18:15:00",
+                "sportsCodeValue": "kbaseball",
+                "leagueCodeName": "KBO",
+                "gameStatus": {
+                  "code": 1,
+                  "name": "경기전"
+                },
+                "leagueCodeValue": "kbo",
+                "awayTeamName": "한화",
+                "homeTeamName": "LG",
+                "startDate": "2024-09-06"
+              }
+            ]
+          },
+          {
+            "date": "2024-09-07",
+            "gameList": [
+              {
+                "broadcast": [
+                  {
+                    "channelName": "LG 편파 라이브톡",
+                    "channelType": {
+                      "code": 44
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d11scj4c5nlhpg.cloudfront.net/h264/kbaseball_lg/hls/master.m3u8"
+                  },
+                  {
+                    "channelName": "한화 편파 라이브톡",
+                    "channelType": {
+                      "code": 47
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d11scj4c5nlhpg.cloudfront.net/h264/kbaseball_hanhwa/hls/master.m3u8"
+                  }
+                ],
+                "gameType": {
+                  "code": 0,
+                  "name": "일반"
+                },
+                "sportsCodeName": "야구",
+                "matchType": {
+                  "code": 1,
+                  "name": "대진"
+                },
+                "homeTeamSeq": 172,
+                "gameTitle": "한화 VS LG",
+                "broadcastType": {
+                  "code": 1,
+                  "name": "영상"
+                },
+                "awayTeamLogoPath": "/team/170/logo_1679896552902.png",
+                "timeMachineStatus": {
+                  "code": 0,
+                  "name": "미제공"
+                },
+                "stadium": "잠실",
+                "startTime": "14:00:00",
+                "gameLinkTabType": {
+                  "code": 7,
+                  "name": "스포키랩"
+                },
+                "seq": 33183,
+                "homeTeamLogoPath": "/team/172/logo_1679896533642.png",
+                "awayTeamSeq": 170,
+                "liveStartDate": "2024-09-07 13:45:00",
+                "sportsCodeValue": "kbaseball",
+                "leagueCodeName": "KBO",
+                "gameStatus": {
+                  "code": 1,
+                  "name": "경기전"
+                },
+                "leagueCodeValue": "kbo",
+                "awayTeamName": "한화",
+                "homeTeamName": "LG",
+                "startDate": "2024-09-07"
+              }
+            ]
+          },
+          {
+            "date": "2024-09-08",
+            "gameList": [
+              {
+                "broadcast": [
+                  {
+                    "channelName": "LG 편파 라이브톡",
+                    "channelType": {
+                      "code": 44
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d11scj4c5nlhpg.cloudfront.net/h264/kbaseball_lg/hls/master.m3u8"
+                  },
+                  {
+                    "channelName": "한화 편파 라이브톡",
+                    "channelType": {
+                      "code": 47
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d11scj4c5nlhpg.cloudfront.net/h264/kbaseball_hanhwa/hls/master.m3u8"
+                  }
+                ],
+                "gameType": {
+                  "code": 0,
+                  "name": "일반"
+                },
+                "sportsCodeName": "야구",
+                "matchType": {
+                  "code": 1,
+                  "name": "대진"
+                },
+                "homeTeamSeq": 172,
+                "gameTitle": "한화 VS LG",
+                "broadcastType": {
+                  "code": 1,
+                  "name": "영상"
+                },
+                "awayTeamLogoPath": "/team/170/logo_1679896552902.png",
+                "timeMachineStatus": {
+                  "code": 0,
+                  "name": "미제공"
+                },
+                "stadium": "잠실",
+                "startTime": "14:00:00",
+                "gameLinkTabType": {
+                  "code": 7,
+                  "name": "스포키랩"
+                },
+                "seq": 33186,
+                "homeTeamLogoPath": "/team/172/logo_1679896533642.png",
+                "awayTeamSeq": 170,
+                "liveStartDate": "2024-09-08 13:45:00",
+                "sportsCodeValue": "kbaseball",
+                "leagueCodeName": "KBO",
+                "gameStatus": {
+                  "code": 1,
+                  "name": "경기전"
+                },
+                "leagueCodeValue": "kbo",
+                "awayTeamName": "한화",
+                "homeTeamName": "LG",
+                "startDate": "2024-09-08"
+              }
+            ]
+          }
+        ]
+      },
+      "samsungLions": {
+        "gameSchedule": [
+          {
+            "date": "2024-09-01",
+            "gameList": [
+              {
+                "broadcast": [
+                  {
+                    "channelName": "삼성 편파 라이브톡",
+                    "channelType": {
+                      "code": 50
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d1soxe5yzlfx4a.cloudfront.net/h264/kbaseball_samsung/hls/master.m3u8"
+                  },
+                  {
+                    "channelName": "KIA 편파 라이브톡",
+                    "channelType": {
+                      "code": 45
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d11scj4c5nlhpg.cloudfront.net/h264/kbaseball_kia/hls/master.m3u8"
+                  }
+                ],
+                "gameType": {
+                  "code": 0,
+                  "name": "일반"
+                },
+                "sportsCodeName": "야구",
+                "matchType": {
+                  "code": 1,
+                  "name": "대진"
+                },
+                "homeTeamSeq": 177,
+                "gameTitle": "KIA VS 삼성",
+                "broadcastType": {
+                  "code": 1,
+                  "name": "영상"
+                },
+                "awayTeamStartingPitcher": "스타우트",
+                "awayTeamLogoPath": "/team/171/logo_1679896542924.png",
+                "timeMachineStatus": {
+                  "code": 0,
+                  "name": "미제공"
+                },
+                "stadium": "대구",
+                "startTime": "14:00:00",
+                "gameLinkTabType": {
+                  "code": 5,
+                  "name": "영상"
+                },
+                "seq": 33163,
+                "homeTeamLogoPath": "/team/177/logo_1679896472469.png",
+                "losingPitcher": {
+                  "homeAwayType": {
+                    "code": 1,
+                    "name": "홈"
+                  },
+                  "pitcherName": "임창민"
+                },
+                "awayTeamSeq": 171,
+                "liveStartDate": "2024-09-01 13:45:00",
+                "sportsCodeValue": "kbaseball",
+                "leagueCodeName": "KBO",
+                "gameStatus": {
+                  "code": 3,
+                  "name": "경기종료"
+                },
+                "homeTeamStartingPitcher": "원태인",
+                "homeTeamScore": 5,
+                "leagueCodeValue": "kbo",
+                "awayTeamName": "KIA",
+                "awayTeamScore": 6,
+                "homeTeamName": "삼성",
+                "winningPitcher": {
+                  "homeAwayType": {
+                    "code": 2,
+                    "name": "원정"
+                  },
+                  "pitcherName": "전상현"
+                },
+                "startDate": "2024-09-01"
+              }
+            ]
+          },
+          {
+            "date": "2024-09-03",
+            "gameList": [
+              {
+                "broadcast": [
+                  {
+                    "channelName": "삼성 편파 라이브톡",
+                    "channelType": {
+                      "code": 50
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d1soxe5yzlfx4a.cloudfront.net/h264/kbaseball_samsung/hls/master.m3u8"
+                  },
+                  {
+                    "channelName": "롯데 편파 라이브톡",
+                    "channelType": {
+                      "code": 46
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d11scj4c5nlhpg.cloudfront.net/h264/kbaseball_lotte/hls/master.m3u8"
+                  }
+                ],
+                "gameType": {
+                  "code": 0,
+                  "name": "일반"
+                },
+                "sportsCodeName": "야구",
+                "matchType": {
+                  "code": 1,
+                  "name": "대진"
+                },
+                "homeTeamSeq": 177,
+                "gameTitle": "롯데 VS 삼성",
+                "broadcastType": {
+                  "code": 1,
+                  "name": "영상"
+                },
+                "awayTeamStartingPitcher": "반즈",
+                "awayTeamLogoPath": "/team/173/logo_1679896578985.png",
+                "timeMachineStatus": {
+                  "code": 0,
+                  "name": "미제공"
+                },
+                "stadium": "대구",
+                "startTime": "18:30:00",
+                "gameLinkTabType": {
+                  "code": 5,
+                  "name": "영상"
+                },
+                "seq": 33165,
+                "homeTeamLogoPath": "/team/177/logo_1679896472469.png",
+                "losingPitcher": {
+                  "homeAwayType": {
+                    "code": 2,
+                    "name": "원정"
+                  },
+                  "pitcherName": "반즈"
+                },
+                "awayTeamSeq": 173,
+                "liveStartDate": "2024-09-03 18:15:00",
+                "sportsCodeValue": "kbaseball",
+                "leagueCodeName": "KBO",
+                "gameStatus": {
+                  "code": 3,
+                  "name": "경기종료"
+                },
+                "homeTeamStartingPitcher": "코너",
+                "homeTeamScore": 5,
+                "leagueCodeValue": "kbo",
+                "awayTeamName": "롯데",
+                "awayTeamScore": 1,
+                "homeTeamName": "삼성",
+                "winningPitcher": {
+                  "homeAwayType": {
+                    "code": 1,
+                    "name": "홈"
+                  },
+                  "pitcherName": "코너"
+                },
+                "startDate": "2024-09-03"
+              }
+            ]
+          },
+          {
+            "date": "2024-09-04",
+            "gameList": [
+              {
+                "broadcast": [
+                  {
+                    "channelName": "삼성 편파 라이브톡",
+                    "channelType": {
+                      "code": 50
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d1soxe5yzlfx4a.cloudfront.net/h264/kbaseball_samsung/hls/master.m3u8"
+                  },
+                  {
+                    "channelName": "두산 편파 라이브톡",
+                    "channelType": {
+                      "code": 49
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d1soxe5yzlfx4a.cloudfront.net/h264/kbaseball_doosan/hls/master.m3u8"
+                  }
+                ],
+                "gameType": {
+                  "code": 0,
+                  "name": "일반"
+                },
+                "sportsCodeName": "야구",
+                "matchType": {
+                  "code": 1,
+                  "name": "대진"
+                },
+                "homeTeamSeq": 177,
+                "gameTitle": "두산 VS 삼성",
+                "broadcastType": {
+                  "code": 1,
+                  "name": "영상"
+                },
+                "awayTeamStartingPitcher": "최승용",
+                "awayTeamLogoPath": "/team/175/logo_1679896495060.png",
+                "timeMachineStatus": {
+                  "code": 0,
+                  "name": "미제공"
+                },
+                "stadium": "대구",
+                "startTime": "18:30:00",
+                "gameLinkTabType": {
+                  "code": 5,
+                  "name": "영상"
+                },
+                "seq": 33465,
+                "homeTeamLogoPath": "/team/177/logo_1679896472469.png",
+                "losingPitcher": {
+                  "homeAwayType": {
+                    "code": 2,
+                    "name": "원정"
+                  },
+                  "pitcherName": "이영하"
+                },
+                "awayTeamSeq": 175,
+                "liveStartDate": "2024-09-04 18:15:00",
+                "sportsCodeValue": "kbaseball",
+                "leagueCodeName": "KBO",
+                "gameStatus": {
+                  "code": 3,
+                  "name": "경기종료"
+                },
+                "homeTeamStartingPitcher": "황동재",
+                "homeTeamScore": 7,
+                "leagueCodeValue": "kbo",
+                "awayTeamName": "두산",
+                "awayTeamScore": 3,
+                "homeTeamName": "삼성",
+                "winningPitcher": {
+                  "homeAwayType": {
+                    "code": 1,
+                    "name": "홈"
+                  },
+                  "pitcherName": "황동재"
+                },
+                "startDate": "2024-09-04"
+              }
+            ]
+          },
+          {
+            "date": "2024-09-06",
+            "gameList": [
+              {
+                "broadcast": [
+                  {
+                    "channelName": "롯데 편파 라이브톡",
+                    "channelType": {
+                      "code": 46
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d11scj4c5nlhpg.cloudfront.net/h264/kbaseball_lotte/hls/master.m3u8"
+                  },
+                  {
+                    "channelName": "삼성 편파 라이브톡",
+                    "channelType": {
+                      "code": 50
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d1soxe5yzlfx4a.cloudfront.net/h264/kbaseball_samsung/hls/master.m3u8"
+                  }
+                ],
+                "gameType": {
+                  "code": 0,
+                  "name": "일반"
+                },
+                "sportsCodeName": "야구",
+                "matchType": {
+                  "code": 1,
+                  "name": "대진"
+                },
+                "homeTeamSeq": 173,
+                "gameTitle": "삼성 VS 롯데",
+                "broadcastType": {
+                  "code": 1,
+                  "name": "영상"
+                },
+                "awayTeamLogoPath": "/team/177/logo_1679896472469.png",
+                "timeMachineStatus": {
+                  "code": 0,
+                  "name": "미제공"
+                },
+                "stadium": "사직",
+                "startTime": "18:30:00",
+                "gameLinkTabType": {
+                  "code": 7,
+                  "name": "스포키랩"
+                },
+                "seq": 33179,
+                "homeTeamLogoPath": "/team/173/logo_1679896578985.png",
+                "awayTeamSeq": 177,
+                "liveStartDate": "2024-09-06 18:15:00",
+                "sportsCodeValue": "kbaseball",
+                "leagueCodeName": "KBO",
+                "gameStatus": {
+                  "code": 1,
+                  "name": "경기전"
+                },
+                "leagueCodeValue": "kbo",
+                "awayTeamName": "삼성",
+                "homeTeamName": "롯데",
+                "startDate": "2024-09-06"
+              }
+            ]
+          }
+        ]
+      },
+      "doosanBears": {
+        "gameSchedule": [
+          {
+            "date": "2024-09-03",
+            "gameList": [
+              {
+                "broadcast": [
+                  {
+                    "channelName": "한화 편파 라이브톡",
+                    "channelType": {
+                      "code": 47
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d11scj4c5nlhpg.cloudfront.net/h264/kbaseball_hanhwa/hls/master.m3u8"
+                  },
+                  {
+                    "channelName": "두산 편파 라이브톡",
+                    "channelType": {
+                      "code": 49
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d1soxe5yzlfx4a.cloudfront.net/h264/kbaseball_doosan/hls/master.m3u8"
+                  }
+                ],
+                "gameType": {
+                  "code": 0,
+                  "name": "일반"
+                },
+                "sportsCodeName": "야구",
+                "matchType": {
+                  "code": 1,
+                  "name": "대진"
+                },
+                "homeTeamSeq": 170,
+                "gameTitle": "두산 VS 한화",
+                "broadcastType": {
+                  "code": 1,
+                  "name": "영상"
+                },
+                "awayTeamStartingPitcher": "최원준",
+                "awayTeamLogoPath": "/team/175/logo_1679896495060.png",
+                "timeMachineStatus": {
+                  "code": 0,
+                  "name": "미제공"
+                },
+                "stadium": "대전",
+                "startTime": "18:30:00",
+                "gameLinkTabType": {
+                  "code": 5,
+                  "name": "영상"
+                },
+                "seq": 33166,
+                "homeTeamLogoPath": "/team/170/logo_1679896552902.png",
+                "losingPitcher": {
+                  "homeAwayType": {
+                    "code": 2,
+                    "name": "원정"
+                  },
+                  "pitcherName": "최원준"
+                },
+                "awayTeamSeq": 175,
+                "liveStartDate": "2024-09-03 18:15:00",
+                "sportsCodeValue": "kbaseball",
+                "leagueCodeName": "KBO",
+                "gameStatus": {
+                  "code": 3,
+                  "name": "경기종료"
+                },
+                "homeTeamStartingPitcher": "문동주",
+                "homeTeamScore": 7,
+                "leagueCodeValue": "kbo",
+                "awayTeamName": "두산",
+                "awayTeamScore": 1,
+                "homeTeamName": "한화",
+                "winningPitcher": {
+                  "homeAwayType": {
+                    "code": 1,
+                    "name": "홈"
+                  },
+                  "pitcherName": "문동주"
+                },
+                "startDate": "2024-09-03"
+              }
+            ]
+          },
+          {
+            "date": "2024-09-04",
+            "gameList": [
+              {
+                "broadcast": [
+                  {
+                    "channelName": "삼성 편파 라이브톡",
+                    "channelType": {
+                      "code": 50
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d1soxe5yzlfx4a.cloudfront.net/h264/kbaseball_samsung/hls/master.m3u8"
+                  },
+                  {
+                    "channelName": "두산 편파 라이브톡",
+                    "channelType": {
+                      "code": 49
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d1soxe5yzlfx4a.cloudfront.net/h264/kbaseball_doosan/hls/master.m3u8"
+                  }
+                ],
+                "gameType": {
+                  "code": 0,
+                  "name": "일반"
+                },
+                "sportsCodeName": "야구",
+                "matchType": {
+                  "code": 1,
+                  "name": "대진"
+                },
+                "homeTeamSeq": 177,
+                "gameTitle": "두산 VS 삼성",
+                "broadcastType": {
+                  "code": 1,
+                  "name": "영상"
+                },
+                "awayTeamStartingPitcher": "최승용",
+                "awayTeamLogoPath": "/team/175/logo_1679896495060.png",
+                "timeMachineStatus": {
+                  "code": 0,
+                  "name": "미제공"
+                },
+                "stadium": "대구",
+                "startTime": "18:30:00",
+                "gameLinkTabType": {
+                  "code": 5,
+                  "name": "영상"
+                },
+                "seq": 33465,
+                "homeTeamLogoPath": "/team/177/logo_1679896472469.png",
+                "losingPitcher": {
+                  "homeAwayType": {
+                    "code": 2,
+                    "name": "원정"
+                  },
+                  "pitcherName": "이영하"
+                },
+                "awayTeamSeq": 175,
+                "liveStartDate": "2024-09-04 18:15:00",
+                "sportsCodeValue": "kbaseball",
+                "leagueCodeName": "KBO",
+                "gameStatus": {
+                  "code": 3,
+                  "name": "경기종료"
+                },
+                "homeTeamStartingPitcher": "황동재",
+                "homeTeamScore": 7,
+                "leagueCodeValue": "kbo",
+                "awayTeamName": "두산",
+                "awayTeamScore": 3,
+                "homeTeamName": "삼성",
+                "winningPitcher": {
+                  "homeAwayType": {
+                    "code": 1,
+                    "name": "홈"
+                  },
+                  "pitcherName": "황동재"
+                },
+                "startDate": "2024-09-04"
+              }
+            ]
+          },
+          {
+            "date": "2024-09-07",
+            "gameList": [
+              {
+                "broadcast": [
+                  {
+                    "channelName": "KT 편파 라이브톡",
+                    "channelType": {
+                      "code": 48
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d11scj4c5nlhpg.cloudfront.net/h264/kbaseball_kt/hls/master.m3u8"
+                  },
+                  {
+                    "channelName": "두산 편파 라이브톡",
+                    "channelType": {
+                      "code": 49
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d1soxe5yzlfx4a.cloudfront.net/h264/kbaseball_doosan/hls/master.m3u8"
+                  }
+                ],
+                "gameType": {
+                  "code": 0,
+                  "name": "일반"
+                },
+                "sportsCodeName": "야구",
+                "matchType": {
+                  "code": 1,
+                  "name": "대진"
+                },
+                "homeTeamSeq": 179,
+                "gameTitle": "두산 VS KT",
+                "broadcastType": {
+                  "code": 1,
+                  "name": "영상"
+                },
+                "awayTeamLogoPath": "/team/175/logo_1679896495060.png",
+                "timeMachineStatus": {
+                  "code": 0,
+                  "name": "미제공"
+                },
+                "stadium": "수원",
+                "startTime": "17:00:00",
+                "gameLinkTabType": {
+                  "code": 7,
+                  "name": "스포키랩"
+                },
+                "seq": 33185,
+                "homeTeamLogoPath": "/team/179/logo_1679896446003.png",
+                "awayTeamSeq": 175,
+                "liveStartDate": "2024-09-07 16:45:00",
+                "sportsCodeValue": "kbaseball",
+                "leagueCodeName": "KBO",
+                "gameStatus": {
+                  "code": 1,
+                  "name": "경기전"
+                },
+                "leagueCodeValue": "kbo",
+                "awayTeamName": "두산",
+                "homeTeamName": "KT",
+                "startDate": "2024-09-07"
+              }
+            ]
+          }
+        ]
+      },
+      "ssgLanders": {
+        "gameSchedule": [
+          {
+            "date": "2024-09-04",
+            "gameList": [
+              {
+                "broadcast": [
+                  {
+                    "channelName": "LG 편파 라이브톡",
+                    "channelType": {
+                      "code": 44
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d11scj4c5nlhpg.cloudfront.net/h264/kbaseball_lg/hls/master.m3u8"
+                  },
+                  {
+                    "channelName": "SSG 편파 라이브톡",
+                    "channelType": {
+                      "code": 51
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d1soxe5yzlfx4a.cloudfront.net/h264/kbaseball_ssg/hls/master.m3u8"
+                  }
+                ],
+                "gameType": {
+                  "code": 0,
+                  "name": "일반"
+                },
+                "sportsCodeName": "야구",
+                "matchType": {
+                  "code": 1,
+                  "name": "대진"
+                },
+                "homeTeamSeq": 172,
+                "gameTitle": "SSG VS LG",
+                "broadcastType": {
+                  "code": 1,
+                  "name": "영상"
+                },
+                "awayTeamStartingPitcher": "오원석",
+                "awayTeamLogoPath": "/team/176/logo_1705305913436.png",
+                "timeMachineStatus": {
+                  "code": 0,
+                  "name": "미제공"
+                },
+                "stadium": "잠실",
+                "startTime": "18:30:00",
+                "gameLinkTabType": {
+                  "code": 5,
+                  "name": "영상"
+                },
+                "seq": 33172,
+                "homeTeamLogoPath": "/team/172/logo_1679896533642.png",
+                "losingPitcher": {
+                  "homeAwayType": {
+                    "code": 2,
+                    "name": "원정"
+                  },
+                  "pitcherName": "오원석"
+                },
+                "awayTeamSeq": 176,
+                "liveStartDate": "2024-09-04 18:15:00",
+                "sportsCodeValue": "kbaseball",
+                "leagueCodeName": "KBO",
+                "gameStatus": {
+                  "code": 3,
+                  "name": "경기종료"
+                },
+                "homeTeamStartingPitcher": "임찬규",
+                "homeTeamScore": 5,
+                "leagueCodeValue": "kbo",
+                "awayTeamName": "SSG",
+                "awayTeamScore": 0,
+                "homeTeamName": "LG",
+                "winningPitcher": {
+                  "homeAwayType": {
+                    "code": 1,
+                    "name": "홈"
+                  },
+                  "pitcherName": "임찬규"
+                },
+                "startDate": "2024-09-04"
+              }
+            ]
+          },
+          {
+            "date": "2024-09-05",
+            "gameList": [
+              {
+                "broadcast": [
+                  {
+                    "channelName": "LG 편파 라이브톡",
+                    "channelType": {
+                      "code": 44
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d11scj4c5nlhpg.cloudfront.net/h264/kbaseball_lg/hls/master.m3u8"
+                  },
+                  {
+                    "channelName": "SSG 편파 라이브톡",
+                    "channelType": {
+                      "code": 51
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d1soxe5yzlfx4a.cloudfront.net/h264/kbaseball_ssg/hls/master.m3u8"
+                  }
+                ],
+                "gameType": {
+                  "code": 0,
+                  "name": "일반"
+                },
+                "sportsCodeName": "야구",
+                "matchType": {
+                  "code": 1,
+                  "name": "대진"
+                },
+                "homeTeamSeq": 172,
+                "gameTitle": "SSG VS LG",
+                "broadcastType": {
+                  "code": 1,
+                  "name": "영상"
+                },
+                "awayTeamStartingPitcher": "김광현",
+                "awayTeamLogoPath": "/team/176/logo_1705305913436.png",
+                "timeMachineStatus": {
+                  "code": 0,
+                  "name": "미제공"
+                },
+                "weather": {
+                  "code": 3,
+                  "name": "흐림 (구름많음)"
+                },
+                "stadium": "잠실",
+                "startTime": "18:30:00",
+                "gameLinkTabType": {
+                  "code": 7,
+                  "name": "스포키랩"
+                },
+                "seq": 33175,
+                "homeTeamLogoPath": "/team/172/logo_1679896533642.png",
+                "awayTeamSeq": 176,
+                "liveStartDate": "2024-09-05 18:15:00",
+                "sportsCodeValue": "kbaseball",
+                "leagueCodeName": "KBO",
+                "gameStatus": {
+                  "code": 1,
+                  "name": "경기전"
+                },
+                "homeTeamStartingPitcher": "최원태",
+                "leagueCodeValue": "kbo",
+                "awayTeamName": "SSG",
+                "homeTeamName": "LG",
+                "startDate": "2024-09-05"
+              }
+            ]
+          },
+          {
+            "date": "2024-09-07",
+            "gameList": [
+              {
+                "broadcast": [
+                  {
+                    "channelName": "롯데 편파 라이브톡",
+                    "channelType": {
+                      "code": 46
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d11scj4c5nlhpg.cloudfront.net/h264/kbaseball_lotte/hls/master.m3u8"
+                  },
+                  {
+                    "channelName": "SSG 편파 라이브톡",
+                    "channelType": {
+                      "code": 51
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d1soxe5yzlfx4a.cloudfront.net/h264/kbaseball_ssg/hls/master.m3u8"
+                  }
+                ],
+                "gameType": {
+                  "code": 0,
+                  "name": "일반"
+                },
+                "sportsCodeName": "야구",
+                "matchType": {
+                  "code": 1,
+                  "name": "대진"
+                },
+                "homeTeamSeq": 173,
+                "gameTitle": "SSG VS 롯데",
+                "broadcastType": {
+                  "code": 1,
+                  "name": "영상"
+                },
+                "awayTeamLogoPath": "/team/176/logo_1705305913436.png",
+                "timeMachineStatus": {
+                  "code": 0,
+                  "name": "미제공"
+                },
+                "stadium": "사직",
+                "startTime": "17:00:00",
+                "gameLinkTabType": {
+                  "code": 7,
+                  "name": "스포키랩"
+                },
+                "seq": 33184,
+                "homeTeamLogoPath": "/team/173/logo_1679896578985.png",
+                "awayTeamSeq": 176,
+                "liveStartDate": "2024-09-07 16:45:00",
+                "sportsCodeValue": "kbaseball",
+                "leagueCodeName": "KBO",
+                "gameStatus": {
+                  "code": 1,
+                  "name": "경기전"
+                },
+                "leagueCodeValue": "kbo",
+                "awayTeamName": "SSG",
+                "homeTeamName": "롯데",
+                "startDate": "2024-09-07"
+              }
+            ]
+          },
+          {
+            "date": "2024-09-08",
+            "gameList": [
+              {
+                "broadcast": [
+                  {
+                    "channelName": "롯데 편파 라이브톡",
+                    "channelType": {
+                      "code": 46
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d11scj4c5nlhpg.cloudfront.net/h264/kbaseball_lotte/hls/master.m3u8"
+                  },
+                  {
+                    "channelName": "SSG 편파 라이브톡",
+                    "channelType": {
+                      "code": 51
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d1soxe5yzlfx4a.cloudfront.net/h264/kbaseball_ssg/hls/master.m3u8"
+                  }
+                ],
+                "gameType": {
+                  "code": 0,
+                  "name": "일반"
+                },
+                "sportsCodeName": "야구",
+                "matchType": {
+                  "code": 1,
+                  "name": "대진"
+                },
+                "homeTeamSeq": 173,
+                "gameTitle": "SSG VS 롯데",
+                "broadcastType": {
+                  "code": 1,
+                  "name": "영상"
+                },
+                "awayTeamLogoPath": "/team/176/logo_1705305913436.png",
+                "timeMachineStatus": {
+                  "code": 0,
+                  "name": "미제공"
+                },
+                "stadium": "사직",
+                "startTime": "14:00:00",
+                "gameLinkTabType": {
+                  "code": 7,
+                  "name": "스포키랩"
+                },
+                "seq": 33189,
+                "homeTeamLogoPath": "/team/173/logo_1679896578985.png",
+                "awayTeamSeq": 176,
+                "liveStartDate": "2024-09-08 13:45:00",
+                "sportsCodeValue": "kbaseball",
+                "leagueCodeName": "KBO",
+                "gameStatus": {
+                  "code": 1,
+                  "name": "경기전"
+                },
+                "leagueCodeValue": "kbo",
+                "awayTeamName": "SSG",
+                "homeTeamName": "롯데",
+                "startDate": "2024-09-08"
+              }
+            ]
+          }
+        ]
+      },
+      "ncDinos": {
+        "gameSchedule": [
+          {
+            "date": "2024-09-01",
+            "gameList": [
+              {
+                "broadcast": [
+                  {
+                    "channelName": "SSG 편파 라이브톡",
+                    "channelType": {
+                      "code": 51
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d1soxe5yzlfx4a.cloudfront.net/h264/kbaseball_ssg/hls/master.m3u8"
+                  },
+                  {
+                    "channelName": "NC 편파 라이브톡",
+                    "channelType": {
+                      "code": 52
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d11scj4c5nlhpg.cloudfront.net/h264/kbaseball_nc/hls/master.m3u8"
+                  }
+                ],
+                "gameType": {
+                  "code": 0,
+                  "name": "일반"
+                },
+                "sportsCodeName": "야구",
+                "matchType": {
+                  "code": 1,
+                  "name": "대진"
+                },
+                "homeTeamSeq": 176,
+                "gameTitle": "NC VS SSG",
+                "broadcastType": {
+                  "code": 1,
+                  "name": "영상"
+                },
+                "awayTeamStartingPitcher": "요키시",
+                "awayTeamLogoPath": "/team/174/logo_1679896506250.png",
+                "timeMachineStatus": {
+                  "code": 0,
+                  "name": "미제공"
+                },
+                "stadium": "문학",
+                "startTime": "14:00:00",
+                "gameLinkTabType": {
+                  "code": 5,
+                  "name": "영상"
+                },
+                "seq": 33162,
+                "homeTeamLogoPath": "/team/176/logo_1705305913436.png",
+                "losingPitcher": {
+                  "homeAwayType": {
+                    "code": 1,
+                    "name": "홈"
+                  },
+                  "pitcherName": "엘리아스"
+                },
+                "awayTeamSeq": 174,
+                "liveStartDate": "2024-09-01 13:45:00",
+                "sportsCodeValue": "kbaseball",
+                "leagueCodeName": "KBO",
+                "gameStatus": {
+                  "code": 3,
+                  "name": "경기종료"
+                },
+                "homeTeamStartingPitcher": "엘리아스",
+                "homeTeamScore": 2,
+                "leagueCodeValue": "kbo",
+                "awayTeamName": "NC",
+                "awayTeamScore": 8,
+                "homeTeamName": "SSG",
+                "winningPitcher": {
+                  "homeAwayType": {
+                    "code": 2,
+                    "name": "원정"
+                  },
+                  "pitcherName": "요키시"
+                },
+                "startDate": "2024-09-01"
+              }
+            ]
+          },
+          {
+            "date": "2024-09-03",
+            "gameList": [
+              {
+                "broadcast": [
+                  {
+                    "channelName": "NC 편파 라이브톡",
+                    "channelType": {
+                      "code": 52
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d11scj4c5nlhpg.cloudfront.net/h264/kbaseball_nc/hls/master.m3u8"
+                  },
+                  {
+                    "channelName": "키움 편파 라이브톡",
+                    "channelType": {
+                      "code": 53
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d11scj4c5nlhpg.cloudfront.net/h264/kbaseball_kium/hls/master.m3u8"
+                  }
+                ],
+                "gameType": {
+                  "code": 0,
+                  "name": "일반"
+                },
+                "sportsCodeName": "야구",
+                "matchType": {
+                  "code": 1,
+                  "name": "대진"
+                },
+                "homeTeamSeq": 174,
+                "gameTitle": "키움 VS NC",
+                "broadcastType": {
+                  "code": 1,
+                  "name": "영상"
+                },
+                "awayTeamStartingPitcher": "후라도",
+                "awayTeamLogoPath": "/team/178/logo_1679896462163.png",
+                "timeMachineStatus": {
+                  "code": 0,
+                  "name": "미제공"
+                },
+                "stadium": "창원",
+                "startTime": "18:30:00",
+                "gameLinkTabType": {
+                  "code": 5,
+                  "name": "영상"
+                },
+                "seq": 33168,
+                "homeTeamLogoPath": "/team/174/logo_1679896506250.png",
+                "losingPitcher": {
+                  "homeAwayType": {
+                    "code": 2,
+                    "name": "원정"
+                  },
+                  "pitcherName": "후라도"
+                },
+                "awayTeamSeq": 178,
+                "liveStartDate": "2024-09-03 18:15:00",
+                "sportsCodeValue": "kbaseball",
+                "leagueCodeName": "KBO",
+                "gameStatus": {
+                  "code": 3,
+                  "name": "경기종료"
+                },
+                "homeTeamStartingPitcher": "이용준",
+                "homeTeamScore": 11,
+                "leagueCodeValue": "kbo",
+                "awayTeamName": "키움",
+                "awayTeamScore": 5,
+                "homeTeamName": "NC",
+                "winningPitcher": {
+                  "homeAwayType": {
+                    "code": 1,
+                    "name": "홈"
+                  },
+                  "pitcherName": "이용준"
+                },
+                "startDate": "2024-09-03"
+              }
+            ]
+          },
+          {
+            "date": "2024-09-04",
+            "gameList": [
+              {
+                "broadcast": [
+                  {
+                    "channelName": "NC 편파 라이브톡",
+                    "channelType": {
+                      "code": 52
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d11scj4c5nlhpg.cloudfront.net/h264/kbaseball_nc/hls/master.m3u8"
+                  },
+                  {
+                    "channelName": "키움 편파 라이브톡",
+                    "channelType": {
+                      "code": 53
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d11scj4c5nlhpg.cloudfront.net/h264/kbaseball_kium/hls/master.m3u8"
+                  }
+                ],
+                "gameType": {
+                  "code": 0,
+                  "name": "일반"
+                },
+                "sportsCodeName": "야구",
+                "matchType": {
+                  "code": 1,
+                  "name": "대진"
+                },
+                "homeTeamSeq": 174,
+                "gameTitle": "키움 VS NC",
+                "broadcastType": {
+                  "code": 1,
+                  "name": "영상"
+                },
+                "awayTeamStartingPitcher": "헤이수스",
+                "awayTeamLogoPath": "/team/178/logo_1679896462163.png",
+                "timeMachineStatus": {
+                  "code": 0,
+                  "name": "미제공"
+                },
+                "stadium": "창원",
+                "startTime": "18:30:00",
+                "gameLinkTabType": {
+                  "code": 5,
+                  "name": "영상"
+                },
+                "seq": 33171,
+                "homeTeamLogoPath": "/team/174/logo_1679896506250.png",
+                "losingPitcher": {
+                  "homeAwayType": {
+                    "code": 2,
+                    "name": "원정"
+                  },
+                  "pitcherName": "헤이수스"
+                },
+                "awayTeamSeq": 178,
+                "liveStartDate": "2024-09-04 18:15:00",
+                "sportsCodeValue": "kbaseball",
+                "leagueCodeName": "KBO",
+                "gameStatus": {
+                  "code": 3,
+                  "name": "경기종료"
+                },
+                "homeTeamStartingPitcher": "하트",
+                "homeTeamScore": 13,
+                "leagueCodeValue": "kbo",
+                "awayTeamName": "키움",
+                "awayTeamScore": 6,
+                "homeTeamName": "NC",
+                "winningPitcher": {
+                  "homeAwayType": {
+                    "code": 1,
+                    "name": "홈"
+                  },
+                  "pitcherName": "하트"
+                },
+                "startDate": "2024-09-04"
+              }
+            ]
+          },
+          {
+            "date": "2024-09-05",
+            "gameList": [
+              {
+                "broadcast": [
+                  {
+                    "channelName": "NC 편파 라이브톡",
+                    "channelType": {
+                      "code": 52
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d11scj4c5nlhpg.cloudfront.net/h264/kbaseball_nc/hls/master.m3u8"
+                  },
+                  {
+                    "channelName": "키움 편파 라이브톡",
+                    "channelType": {
+                      "code": 53
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d11scj4c5nlhpg.cloudfront.net/h264/kbaseball_kium/hls/master.m3u8"
+                  }
+                ],
+                "gameType": {
+                  "code": 0,
+                  "name": "일반"
+                },
+                "sportsCodeName": "야구",
+                "matchType": {
+                  "code": 1,
+                  "name": "대진"
+                },
+                "homeTeamSeq": 174,
+                "gameTitle": "키움 VS NC",
+                "broadcastType": {
+                  "code": 1,
+                  "name": "영상"
+                },
+                "awayTeamStartingPitcher": "하영민",
+                "awayTeamLogoPath": "/team/178/logo_1679896462163.png",
+                "timeMachineStatus": {
+                  "code": 0,
+                  "name": "미제공"
+                },
+                "weather": {
+                  "code": 1,
+                  "name": "맑음"
+                },
+                "stadium": "창원",
+                "startTime": "18:30:00",
+                "gameLinkTabType": {
+                  "code": 7,
+                  "name": "스포키랩"
+                },
+                "seq": 33174,
+                "homeTeamLogoPath": "/team/174/logo_1679896506250.png",
+                "awayTeamSeq": 178,
+                "liveStartDate": "2024-09-05 18:15:00",
+                "sportsCodeValue": "kbaseball",
+                "leagueCodeName": "KBO",
+                "gameStatus": {
+                  "code": 1,
+                  "name": "경기전"
+                },
+                "homeTeamStartingPitcher": "이재학",
+                "leagueCodeValue": "kbo",
+                "awayTeamName": "키움",
+                "homeTeamName": "NC",
+                "startDate": "2024-09-05"
+              }
+            ]
+          },
+          {
+            "date": "2024-09-06",
+            "gameList": [
+              {
+                "broadcast": [
+                  {
+                    "channelName": "NC 편파 라이브톡",
+                    "channelType": {
+                      "code": 52
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d11scj4c5nlhpg.cloudfront.net/h264/kbaseball_nc/hls/master.m3u8"
+                  },
+                  {
+                    "channelName": "KT 편파 라이브톡",
+                    "channelType": {
+                      "code": 48
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d11scj4c5nlhpg.cloudfront.net/h264/kbaseball_kt/hls/master.m3u8"
+                  }
+                ],
+                "gameType": {
+                  "code": 0,
+                  "name": "일반"
+                },
+                "sportsCodeName": "야구",
+                "matchType": {
+                  "code": 1,
+                  "name": "대진"
+                },
+                "homeTeamSeq": 174,
+                "gameTitle": "KT VS NC",
+                "broadcastType": {
+                  "code": 1,
+                  "name": "영상"
+                },
+                "awayTeamLogoPath": "/team/179/logo_1679896446003.png",
+                "timeMachineStatus": {
+                  "code": 0,
+                  "name": "미제공"
+                },
+                "stadium": "창원",
+                "startTime": "18:30:00",
+                "gameLinkTabType": {
+                  "code": 7,
+                  "name": "스포키랩"
+                },
+                "seq": 33180,
+                "homeTeamLogoPath": "/team/174/logo_1679896506250.png",
+                "awayTeamSeq": 179,
+                "liveStartDate": "2024-09-06 18:15:00",
+                "sportsCodeValue": "kbaseball",
+                "leagueCodeName": "KBO",
+                "gameStatus": {
+                  "code": 1,
+                  "name": "경기전"
+                },
+                "leagueCodeValue": "kbo",
+                "awayTeamName": "KT",
+                "homeTeamName": "NC",
+                "startDate": "2024-09-06"
+              }
+            ]
+          }
+        ]
+      },
+      "ktWiz": {
+        "gameSchedule": [
+          {
+            "date": "2024-09-04",
+            "gameList": [
+              {
+                "broadcast": [
+                  {
+                    "channelName": "롯데 편파 라이브톡",
+                    "channelType": {
+                      "code": 46
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d11scj4c5nlhpg.cloudfront.net/h264/kbaseball_lotte/hls/master.m3u8"
+                  },
+                  {
+                    "channelName": "KT 편파 라이브톡",
+                    "channelType": {
+                      "code": 48
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d11scj4c5nlhpg.cloudfront.net/h264/kbaseball_kt/hls/master.m3u8"
+                  }
+                ],
+                "gameType": {
+                  "code": 0,
+                  "name": "일반"
+                },
+                "sportsCodeName": "야구",
+                "matchType": {
+                  "code": 1,
+                  "name": "대진"
+                },
+                "homeTeamSeq": 173,
+                "gameTitle": "KT VS 롯데",
+                "broadcastType": {
+                  "code": 1,
+                  "name": "영상"
+                },
+                "awayTeamStartingPitcher": "벤자민",
+                "awayTeamLogoPath": "/team/179/logo_1679896446003.png",
+                "timeMachineStatus": {
+                  "code": 0,
+                  "name": "미제공"
+                },
+                "stadium": "사직",
+                "startTime": "18:30:00",
+                "gameLinkTabType": {
+                  "code": 5,
+                  "name": "영상"
+                },
+                "seq": 33169,
+                "homeTeamLogoPath": "/team/173/logo_1679896578985.png",
+                "losingPitcher": {
+                  "homeAwayType": {
+                    "code": 2,
+                    "name": "원정"
+                  },
+                  "pitcherName": "김민"
+                },
+                "awayTeamSeq": 179,
+                "liveStartDate": "2024-09-04 18:15:00",
+                "sportsCodeValue": "kbaseball",
+                "leagueCodeName": "KBO",
+                "gameStatus": {
+                  "code": 3,
+                  "name": "경기종료"
+                },
+                "homeTeamStartingPitcher": "윌커슨",
+                "homeTeamScore": 7,
+                "leagueCodeValue": "kbo",
+                "awayTeamName": "KT",
+                "awayTeamScore": 5,
+                "homeTeamName": "롯데",
+                "winningPitcher": {
+                  "homeAwayType": {
+                    "code": 1,
+                    "name": "홈"
+                  },
+                  "pitcherName": "김상수"
+                },
+                "startDate": "2024-09-04"
+              }
+            ]
+          },
+          {
+            "date": "2024-09-05",
+            "gameList": [
+              {
+                "broadcast": [
+                  {
+                    "channelName": "롯데 편파 라이브톡",
+                    "channelType": {
+                      "code": 46
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d11scj4c5nlhpg.cloudfront.net/h264/kbaseball_lotte/hls/master.m3u8"
+                  },
+                  {
+                    "channelName": "KT 편파 라이브톡",
+                    "channelType": {
+                      "code": 48
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d11scj4c5nlhpg.cloudfront.net/h264/kbaseball_kt/hls/master.m3u8"
+                  }
+                ],
+                "gameType": {
+                  "code": 0,
+                  "name": "일반"
+                },
+                "sportsCodeName": "야구",
+                "matchType": {
+                  "code": 1,
+                  "name": "대진"
+                },
+                "homeTeamSeq": 173,
+                "gameTitle": "KT VS 롯데",
+                "broadcastType": {
+                  "code": 1,
+                  "name": "영상"
+                },
+                "awayTeamStartingPitcher": "조이현",
+                "awayTeamLogoPath": "/team/179/logo_1679896446003.png",
+                "timeMachineStatus": {
+                  "code": 0,
+                  "name": "미제공"
+                },
+                "weather": {
+                  "code": 1,
+                  "name": "맑음"
+                },
+                "stadium": "사직",
+                "startTime": "18:30:00",
+                "gameLinkTabType": {
+                  "code": 7,
+                  "name": "스포키랩"
+                },
+                "seq": 33176,
+                "homeTeamLogoPath": "/team/173/logo_1679896578985.png",
+                "awayTeamSeq": 179,
+                "liveStartDate": "2024-09-05 18:15:00",
+                "sportsCodeValue": "kbaseball",
+                "leagueCodeName": "KBO",
+                "gameStatus": {
+                  "code": 1,
+                  "name": "경기전"
+                },
+                "homeTeamStartingPitcher": "정현수",
+                "leagueCodeValue": "kbo",
+                "awayTeamName": "KT",
+                "homeTeamName": "롯데",
+                "startDate": "2024-09-05"
+              }
+            ]
+          },
+          {
+            "date": "2024-09-06",
+            "gameList": [
+              {
+                "broadcast": [
+                  {
+                    "channelName": "NC 편파 라이브톡",
+                    "channelType": {
+                      "code": 52
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d11scj4c5nlhpg.cloudfront.net/h264/kbaseball_nc/hls/master.m3u8"
+                  },
+                  {
+                    "channelName": "KT 편파 라이브톡",
+                    "channelType": {
+                      "code": 48
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d11scj4c5nlhpg.cloudfront.net/h264/kbaseball_kt/hls/master.m3u8"
+                  }
+                ],
+                "gameType": {
+                  "code": 0,
+                  "name": "일반"
+                },
+                "sportsCodeName": "야구",
+                "matchType": {
+                  "code": 1,
+                  "name": "대진"
+                },
+                "homeTeamSeq": 174,
+                "gameTitle": "KT VS NC",
+                "broadcastType": {
+                  "code": 1,
+                  "name": "영상"
+                },
+                "awayTeamLogoPath": "/team/179/logo_1679896446003.png",
+                "timeMachineStatus": {
+                  "code": 0,
+                  "name": "미제공"
+                },
+                "stadium": "창원",
+                "startTime": "18:30:00",
+                "gameLinkTabType": {
+                  "code": 7,
+                  "name": "스포키랩"
+                },
+                "seq": 33180,
+                "homeTeamLogoPath": "/team/174/logo_1679896506250.png",
+                "awayTeamSeq": 179,
+                "liveStartDate": "2024-09-06 18:15:00",
+                "sportsCodeValue": "kbaseball",
+                "leagueCodeName": "KBO",
+                "gameStatus": {
+                  "code": 1,
+                  "name": "경기전"
+                },
+                "leagueCodeValue": "kbo",
+                "awayTeamName": "KT",
+                "homeTeamName": "NC",
+                "startDate": "2024-09-06"
+              }
+            ]
+          },
+          {
+            "date": "2024-09-07",
+            "gameList": [
+              {
+                "broadcast": [
+                  {
+                    "channelName": "KT 편파 라이브톡",
+                    "channelType": {
+                      "code": 48
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d11scj4c5nlhpg.cloudfront.net/h264/kbaseball_kt/hls/master.m3u8"
+                  },
+                  {
+                    "channelName": "두산 편파 라이브톡",
+                    "channelType": {
+                      "code": 49
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d1soxe5yzlfx4a.cloudfront.net/h264/kbaseball_doosan/hls/master.m3u8"
+                  }
+                ],
+                "gameType": {
+                  "code": 0,
+                  "name": "일반"
+                },
+                "sportsCodeName": "야구",
+                "matchType": {
+                  "code": 1,
+                  "name": "대진"
+                },
+                "homeTeamSeq": 179,
+                "gameTitle": "두산 VS KT",
+                "broadcastType": {
+                  "code": 1,
+                  "name": "영상"
+                },
+                "awayTeamLogoPath": "/team/175/logo_1679896495060.png",
+                "timeMachineStatus": {
+                  "code": 0,
+                  "name": "미제공"
+                },
+                "stadium": "수원",
+                "startTime": "17:00:00",
+                "gameLinkTabType": {
+                  "code": 7,
+                  "name": "스포키랩"
+                },
+                "seq": 33185,
+                "homeTeamLogoPath": "/team/179/logo_1679896446003.png",
+                "awayTeamSeq": 175,
+                "liveStartDate": "2024-09-07 16:45:00",
+                "sportsCodeValue": "kbaseball",
+                "leagueCodeName": "KBO",
+                "gameStatus": {
+                  "code": 1,
+                  "name": "경기전"
+                },
+                "leagueCodeValue": "kbo",
+                "awayTeamName": "두산",
+                "homeTeamName": "KT",
+                "startDate": "2024-09-07"
+              }
+            ]
+          },
+          {
+            "date": "2024-09-10",
+            "gameList": [
+              {
+                "broadcast": [
+                  {
+                    "channelName": "KT 편파 라이브톡",
+                    "channelType": {
+                      "code": 48
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d11scj4c5nlhpg.cloudfront.net/h264/kbaseball_kt/hls/master.m3u8"
+                  },
+                  {
+                    "channelName": "NC 편파 라이브톡",
+                    "channelType": {
+                      "code": 52
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d11scj4c5nlhpg.cloudfront.net/h264/kbaseball_nc/hls/master.m3u8"
+                  }
+                ],
+                "gameType": {
+                  "code": 0,
+                  "name": "일반"
+                },
+                "sportsCodeName": "야구",
+                "matchType": {
+                  "code": 1,
+                  "name": "대진"
+                },
+                "homeTeamSeq": 179,
+                "gameTitle": "NC VS KT",
+                "broadcastType": {
+                  "code": 1,
+                  "name": "영상"
+                },
+                "awayTeamLogoPath": "/team/174/logo_1679896506250.png",
+                "timeMachineStatus": {
+                  "code": 0,
+                  "name": "미제공"
+                },
+                "stadium": "수원",
+                "startTime": "18:30:00",
+                "gameLinkTabType": {
+                  "code": 7,
+                  "name": "스포키랩"
+                },
+                "seq": 33190,
+                "homeTeamLogoPath": "/team/179/logo_1679896446003.png",
+                "awayTeamSeq": 174,
+                "liveStartDate": "2024-09-10 18:15:00",
+                "sportsCodeValue": "kbaseball",
+                "leagueCodeName": "KBO",
+                "gameStatus": {
+                  "code": 1,
+                  "name": "경기전"
+                },
+                "leagueCodeValue": "kbo",
+                "awayTeamName": "NC",
+                "homeTeamName": "KT",
+                "startDate": "2024-09-10"
+              }
+            ]
+          }
+        ]
+      },
+      "kiwoomHeroes": {
+        "gameSchedule": [
+          {
+            "date": "2024-09-04",
+            "gameList": [
+              {
+                "broadcast": [
+                  {
+                    "channelName": "NC 편파 라이브톡",
+                    "channelType": {
+                      "code": 52
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d11scj4c5nlhpg.cloudfront.net/h264/kbaseball_nc/hls/master.m3u8"
+                  },
+                  {
+                    "channelName": "키움 편파 라이브톡",
+                    "channelType": {
+                      "code": 53
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d11scj4c5nlhpg.cloudfront.net/h264/kbaseball_kium/hls/master.m3u8"
+                  }
+                ],
+                "gameType": {
+                  "code": 0,
+                  "name": "일반"
+                },
+                "sportsCodeName": "야구",
+                "matchType": {
+                  "code": 1,
+                  "name": "대진"
+                },
+                "homeTeamSeq": 174,
+                "gameTitle": "키움 VS NC",
+                "broadcastType": {
+                  "code": 1,
+                  "name": "영상"
+                },
+                "awayTeamStartingPitcher": "헤이수스",
+                "awayTeamLogoPath": "/team/178/logo_1679896462163.png",
+                "timeMachineStatus": {
+                  "code": 0,
+                  "name": "미제공"
+                },
+                "stadium": "창원",
+                "startTime": "18:30:00",
+                "gameLinkTabType": {
+                  "code": 5,
+                  "name": "영상"
+                },
+                "seq": 33171,
+                "homeTeamLogoPath": "/team/174/logo_1679896506250.png",
+                "losingPitcher": {
+                  "homeAwayType": {
+                    "code": 2,
+                    "name": "원정"
+                  },
+                  "pitcherName": "헤이수스"
+                },
+                "awayTeamSeq": 178,
+                "liveStartDate": "2024-09-04 18:15:00",
+                "sportsCodeValue": "kbaseball",
+                "leagueCodeName": "KBO",
+                "gameStatus": {
+                  "code": 3,
+                  "name": "경기종료"
+                },
+                "homeTeamStartingPitcher": "하트",
+                "homeTeamScore": 13,
+                "leagueCodeValue": "kbo",
+                "awayTeamName": "키움",
+                "awayTeamScore": 6,
+                "homeTeamName": "NC",
+                "winningPitcher": {
+                  "homeAwayType": {
+                    "code": 1,
+                    "name": "홈"
+                  },
+                  "pitcherName": "하트"
+                },
+                "startDate": "2024-09-04"
+              }
+            ]
+          },
+          {
+            "date": "2024-09-05",
+            "gameList": [
+              {
+                "broadcast": [
+                  {
+                    "channelName": "NC 편파 라이브톡",
+                    "channelType": {
+                      "code": 52
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d11scj4c5nlhpg.cloudfront.net/h264/kbaseball_nc/hls/master.m3u8"
+                  },
+                  {
+                    "channelName": "키움 편파 라이브톡",
+                    "channelType": {
+                      "code": 53
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d11scj4c5nlhpg.cloudfront.net/h264/kbaseball_kium/hls/master.m3u8"
+                  }
+                ],
+                "gameType": {
+                  "code": 0,
+                  "name": "일반"
+                },
+                "sportsCodeName": "야구",
+                "matchType": {
+                  "code": 1,
+                  "name": "대진"
+                },
+                "homeTeamSeq": 174,
+                "gameTitle": "키움 VS NC",
+                "broadcastType": {
+                  "code": 1,
+                  "name": "영상"
+                },
+                "awayTeamStartingPitcher": "하영민",
+                "awayTeamLogoPath": "/team/178/logo_1679896462163.png",
+                "timeMachineStatus": {
+                  "code": 0,
+                  "name": "미제공"
+                },
+                "weather": {
+                  "code": 1,
+                  "name": "맑음"
+                },
+                "stadium": "창원",
+                "startTime": "18:30:00",
+                "gameLinkTabType": {
+                  "code": 7,
+                  "name": "스포키랩"
+                },
+                "seq": 33174,
+                "homeTeamLogoPath": "/team/174/logo_1679896506250.png",
+                "awayTeamSeq": 178,
+                "liveStartDate": "2024-09-05 18:15:00",
+                "sportsCodeValue": "kbaseball",
+                "leagueCodeName": "KBO",
+                "gameStatus": {
+                  "code": 1,
+                  "name": "경기전"
+                },
+                "homeTeamStartingPitcher": "이재학",
+                "leagueCodeValue": "kbo",
+                "awayTeamName": "키움",
+                "homeTeamName": "NC",
+                "startDate": "2024-09-05"
+              }
+            ]
+          },
+          {
+            "date": "2024-09-06",
+            "gameList": [
+              {
+                "broadcast": [
+                  {
+                    "channelName": "KIA 편파 라이브톡",
+                    "channelType": {
+                      "code": 45
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d11scj4c5nlhpg.cloudfront.net/h264/kbaseball_kia/hls/master.m3u8"
+                  },
+                  {
+                    "channelName": "키움 편파 라이브톡",
+                    "channelType": {
+                      "code": 53
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d11scj4c5nlhpg.cloudfront.net/h264/kbaseball_kium/hls/master.m3u8"
+                  }
+                ],
+                "gameType": {
+                  "code": 0,
+                  "name": "일반"
+                },
+                "sportsCodeName": "야구",
+                "matchType": {
+                  "code": 1,
+                  "name": "대진"
+                },
+                "homeTeamSeq": 171,
+                "gameTitle": "키움 VS KIA",
+                "broadcastType": {
+                  "code": 1,
+                  "name": "영상"
+                },
+                "awayTeamLogoPath": "/team/178/logo_1679896462163.png",
+                "timeMachineStatus": {
+                  "code": 0,
+                  "name": "미제공"
+                },
+                "stadium": "광주",
+                "startTime": "18:30:00",
+                "gameLinkTabType": {
+                  "code": 7,
+                  "name": "스포키랩"
+                },
+                "seq": 33178,
+                "homeTeamLogoPath": "/team/171/logo_1679896542924.png",
+                "awayTeamSeq": 178,
+                "liveStartDate": "2024-09-06 18:15:00",
+                "sportsCodeValue": "kbaseball",
+                "leagueCodeName": "KBO",
+                "gameStatus": {
+                  "code": 1,
+                  "name": "경기전"
+                },
+                "leagueCodeValue": "kbo",
+                "awayTeamName": "키움",
+                "homeTeamName": "KIA",
+                "startDate": "2024-09-06"
+              }
+            ]
+          },
+          {
+            "date": "2024-09-07",
+            "gameList": [
+              {
+                "broadcast": [
+                  {
+                    "channelName": "KIA 편파 라이브톡",
+                    "channelType": {
+                      "code": 45
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d11scj4c5nlhpg.cloudfront.net/h264/kbaseball_kia/hls/master.m3u8"
+                  },
+                  {
+                    "channelName": "키움 편파 라이브톡",
+                    "channelType": {
+                      "code": 53
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d11scj4c5nlhpg.cloudfront.net/h264/kbaseball_kium/hls/master.m3u8"
+                  }
+                ],
+                "gameType": {
+                  "code": 0,
+                  "name": "일반"
+                },
+                "sportsCodeName": "야구",
+                "matchType": {
+                  "code": 1,
+                  "name": "대진"
+                },
+                "homeTeamSeq": 171,
+                "gameTitle": "키움 VS KIA",
+                "broadcastType": {
+                  "code": 1,
+                  "name": "영상"
+                },
+                "awayTeamLogoPath": "/team/178/logo_1679896462163.png",
+                "timeMachineStatus": {
+                  "code": 0,
+                  "name": "미제공"
+                },
+                "stadium": "광주",
+                "startTime": "17:00:00",
+                "gameLinkTabType": {
+                  "code": 7,
+                  "name": "스포키랩"
+                },
+                "seq": 33182,
+                "homeTeamLogoPath": "/team/171/logo_1679896542924.png",
+                "awayTeamSeq": 178,
+                "liveStartDate": "2024-09-07 16:45:00",
+                "sportsCodeValue": "kbaseball",
+                "leagueCodeName": "KBO",
+                "gameStatus": {
+                  "code": 1,
+                  "name": "경기전"
+                },
+                "leagueCodeValue": "kbo",
+                "awayTeamName": "키움",
+                "homeTeamName": "KIA",
+                "startDate": "2024-09-07"
+              }
+            ]
+          },
+          {
+            "date": "2024-09-08",
+            "gameList": [
+              {
+                "broadcast": [
+                  {
+                    "channelName": "KIA 편파 라이브톡",
+                    "channelType": {
+                      "code": 45
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d11scj4c5nlhpg.cloudfront.net/h264/kbaseball_kia/hls/master.m3u8"
+                  },
+                  {
+                    "channelName": "키움 편파 라이브톡",
+                    "channelType": {
+                      "code": 53
+                    },
+                    "broadcastEncodeType": {
+                      "code": 1,
+                      "name": "HMS"
+                    },
+                    "allowAdMod": false,
+                    "channelUrl": "https://d11scj4c5nlhpg.cloudfront.net/h264/kbaseball_kium/hls/master.m3u8"
+                  }
+                ],
+                "gameType": {
+                  "code": 0,
+                  "name": "일반"
+                },
+                "sportsCodeName": "야구",
+                "matchType": {
+                  "code": 1,
+                  "name": "대진"
+                },
+                "homeTeamSeq": 171,
+                "gameTitle": "키움 VS KIA",
+                "broadcastType": {
+                  "code": 1,
+                  "name": "영상"
+                },
+                "awayTeamLogoPath": "/team/178/logo_1679896462163.png",
+                "timeMachineStatus": {
+                  "code": 0,
+                  "name": "미제공"
+                },
+                "stadium": "광주",
+                "startTime": "14:00:00",
+                "gameLinkTabType": {
+                  "code": 7,
+                  "name": "스포키랩"
+                },
+                "seq": 33188,
+                "homeTeamLogoPath": "/team/171/logo_1679896542924.png",
+                "awayTeamSeq": 178,
+                "liveStartDate": "2024-09-08 13:45:00",
+                "sportsCodeValue": "kbaseball",
+                "leagueCodeName": "KBO",
+                "gameStatus": {
+                  "code": 1,
+                  "name": "경기전"
+                },
+                "leagueCodeValue": "kbo",
+                "awayTeamName": "키움",
+                "homeTeamName": "KIA",
+                "startDate": "2024-09-08"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+
+  "teamListInfo": [
+    {
+      "teamId": 170,
+      "teamName": "한화",
+      "teamEngName": "hanhwaEagles",
+      "teamImg": "https://static-cdn.sporki.com/team/170/logo_1679896552902.png"
+    },
+    {
+      "teamId": 171,
+      "teamName": "KIA",
+      "teamEngName": "kiaTigers",
+      "teamImg": "https://static-cdn.sporki.com/team/171/logo_1679896542924.png"
+    },
+    {
+      "teamId": 172,
+      "teamName": "LG",
+      "teamEngName": "lgTwins",
+      "teamImg": "https://static-cdn.sporki.com/team/172/logo_1679896533642.png"
+    },
+    {
+      "teamId": 173,
+      "teamName": "롯데",
+      "teamEngName": "lotteGiants",
+      "teamImg": "https://static-cdn.sporki.com/team/173/logo_1679896578985.png"
+    },
+    {
+      "teamId": 174,
+      "teamName": "NC",
+      "teamEngName": "ncDinos",
+      "teamImg": "https://static-cdn.sporki.com/team/174/logo_1679896506250.png"
+    },
+    {
+      "teamId": 175,
+      "teamName": "두산",
+      "teamEngName": "doosanBears",
+      "teamImg": "https://static-cdn.sporki.com/team/175/logo_1679896495060.png"
+    },
+    {
+      "teamId": 176,
+      "teamName": "SSG",
+      "teamEngName": "ssgLanders",
+      "teamImg": "https://static-cdn.sporki.com/team/176/logo_1705305913436.png"
+    },
+    {
+      "teamId": 177,
+      "teamName": "삼성",
+      "teamEngName": "samsungLions",
+      "teamImg": "https://static-cdn.sporki.com/team/177/logo_1679896472469.png"
+    },
+    {
+      "teamId": 178,
+      "teamName": "키움",
+      "teamEngName": "kiwoomHeroes",
+      "teamImg": "https://static-cdn.sporki.com/team/178/logo_1679896462163.png"
+    },
+    {
+      "teamId": 179,
+      "teamName": "KT",
+      "teamEngName": "ktWiz",
+      "teamImg": "https://static-cdn.sporki.com/team/179/logo_1679896446003.png"
+    }
+  ]
+}

@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
+import MswComponent from "@/MswComponent";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -15,9 +16,9 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
+    <html lang="en" data-theme="emerald">
       <body className={inter.className}>
-        <div>전체 레이아웃</div>
+        <MswComponent />
         {children}
       </body>
     </html>
