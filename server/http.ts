@@ -5,7 +5,7 @@ export const getGameSchedule = async (teamName: string) => {
   if (!response.ok) {
     throw new Error("Failed to fetch game schedule");
   }
-  console.log("kyj data:", response);
+
   const data = await response.json();
   return data;
 };
@@ -16,7 +16,7 @@ export const getWatchCountInfo = async () => {
   if (!response.ok) {
     throw new Error("Failed to fetch watch count info");
   }
-  console.log("kyj data:", response);
+
   const data = await response.json();
   return data;
 };

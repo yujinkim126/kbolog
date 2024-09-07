@@ -54,7 +54,7 @@ const getWatchCountInfoHandler = http.get("/api/watch/count", ({ request }) => {
     headers: {
       "Content-Type": "application/json",
     },
-    response: mockData.getWatchCountInfo[0],
+    response: mockData.getWatchCountInfo[0].count,
   });
 });
 
