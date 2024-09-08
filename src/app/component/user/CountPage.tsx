@@ -19,12 +19,12 @@ const CountPage = ({ countData }: Props) => {
   const getMessageAndImage = (winPercent: number) => {
     if (winPercent < 50) {
       return {
-        message: "패배 요정",
+        message: "(승요가 되고 싶은) 패배 요정",
         imageUrl: "/image/loser.png",
       };
     } else if (winPercent >= 50 && winPercent < 70) {
       return {
-        message: "패요 탈출!!",
+        message: "축하합니다 패요 탈출 !",
         imageUrl: "/image/half.png",
       };
     } else if (winPercent >= 70 && winPercent < 90) {
@@ -34,7 +34,7 @@ const CountPage = ({ countData }: Props) => {
       };
     } else {
       return {
-        message: "당장 폴대에 묶어",
+        message: "승리 요정을 넘었네요! 당장 폴대에 묶어",
         imageUrl: "/image/winner.png",
       };
     }
@@ -49,14 +49,14 @@ const CountPage = ({ countData }: Props) => {
         승리는 {winGameCount}번 승률 {winPercent}%
       </p>
       {/* 승률에 따라 문구와 이미지 표시 */}
-      <div className="mt-8">
-        <p className="text-lg text-gray-500">{message}</p>
+      <div className="userWinStatus">
+        <p className="text-lg text-gray-500 font-semibold my-8">{message}</p>
         <Image
-          width={400}
-          height={400}
+          width={240}
+          height={240}
           src={imageUrl}
           alt={message}
-          className="mx-auto mt-2"
+          className="mx-auto"
         />
       </div>
     </div>

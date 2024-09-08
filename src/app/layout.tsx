@@ -3,6 +3,7 @@ import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
 import ClientWrapper from "@/ClientWrapper"; // 클라이언트 로직을 담은 래퍼 컴포넌트
+import Header from "./component/Header";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -17,8 +18,9 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" data-theme="emerald">
+    <html lang="ko" data-theme="emerald">
       <body className={inter.className}>
+        <Header />
         <ClientWrapper>{children}</ClientWrapper>
       </body>
     </html>

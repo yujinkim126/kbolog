@@ -23,7 +23,7 @@ const UserPage = () => {
   }, []);
 
   return (
-    <div className="countpage p-20 flex flex-col justify-center items-center">
+    <div className="countpage p-8 flex flex-col justify-center items-center">
       <CountPage countData={countData} />
       <div></div>
     </div>
